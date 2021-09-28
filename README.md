@@ -3,3 +3,4 @@
 
 ![Landscape image of Salt Lake City, Utah, USA.](url)![image](https://cdn.britannica.com/69/95669-050-3ECCFE19/Salt-Lake-City-Utah.jpg)
 
+I was born in Salt Lake City, but I grew up my whole life in California. 
