@@ -1,7 +1,7 @@
 # Assignment 01 / NYS Commission on Judicial Conduct
 ## Connor Ripple, DH110 - SEM1F, 2021
 
-### Assignment: Heuristic Evaluation of New York 
+### Assignment: Heuristic Evaluation of New York, CJC Website 
 Link to website: http://cjc.ny.gov/
 
 Purpose of the assignment - 3-5 sentences of what you want to show. 
