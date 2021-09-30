@@ -54,8 +54,11 @@ There are many references to several government positions and processes that req
 
 > * *Suggestion: For some web pages, it would be helpful to provide a little more context on what certain terms might mean wiuthout them needing to leave the web page or use external resources. In the screenshot above, there is a lot of hyperlinked content that explains what each sentence is saying. * 
 
+##### Severity Rating for Heuristic #2 - 1
+
 #### #3 - User control and freedom
 
+The search results appear in a pop-up, rather than a results page, making it easy to lose search results if a user is not ready to click onto a new page. 
 
 
 ---
