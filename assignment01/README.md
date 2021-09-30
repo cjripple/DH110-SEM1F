@@ -7,6 +7,37 @@ DH110 - Fall 2021 <br>
 
 ---
 
+##Legend 
+
+### Nielson's Guide to The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) 
+
+| # | Usability Heuristic | Definition |
+|---|---|---|
+| #1 | Visibility of system status | [See Here](https://www.nngroup.com/articles/visibility-system-status/) |
+| #2 | Match between system and the real world | [See Here](Full article: Match Between the System and the Real World) |
+| #3 | User control and freedom | [See Here](https://www.nngroup.com/articles/user-control-and-freedom/) |
+| #4 | Consistency and standards | [See Here](http://www.nngroup.com/articles/consistency-and-standards/) |
+| #5 | Error prevention | [See Here](https://www.nngroup.com/articles/slips/) |
+| #6 | Recognition rather than recall | [See Here](https://www.nngroup.com/articles/recognition-and-recall/) |
+| #7 | Flexibility and efficiency of use | [See Here](https://www.nngroup.com/articles/flexibility-efficiency-heuristic/) |
+| #8 | Aesthetic and minimalist design | [See Here](https://www.nngroup.com/videos/aesthetic-and-minimalist-design/) |
+| #9 | Help users recognize, diagnose, and recover from errors | [See Here](https://www.nngroup.com/videos/usability-heuristic-recognize-errors/) |
+| #10 | Help and documentation | [See Here](https://www.nngroup.com/articles/help-and-documentation/) |
+
+---
+
+### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) 
+
+This scale can be used to measure the urgency and severity of usability issues. 
+
+| Rating | Description |
+|---|---|
+| #1 | Cosmetic problem only; minimal effect on usability |
+| #2 | Minor usability problem: fixing this issue should be low priority |
+| #3 | Major usability problem: important to fix, this issue should be given high priority |
+
+Ratings are displayed in parentheses after each usability issue.
+
 ### About this Project
 
 The court system in the State of New York is one of the largest and oldest in the country. Handling nearly four million cases a year [*](#*), it is imperative that the New York Government has robust and and easy-to-navigate websites for users to find resources and help. Considering that New York's different courts handle different types of cases, it's important for users to be able to help themselves using the website. This project will examine UX design choices that work well, and choices that can be implemented to make the website easier to navigate, as well as a platform that is accessible for everyone. 
