@@ -199,7 +199,7 @@ Maximize the layout of the vast amount of content on this page so users can find
 
 ### #1 - Visibility of system status
 
-Upon page load, a video embed starts playing. While this is obtrusive, it is a touchpoint that reminds users that they are in the right place and that the website is functioning properly. The hover effects for menu items work well. There are a lot of modules with differtent information to let users know they are in the right place. 
+Upon page load, a video embed starts playing. While this is obtrusive, it is a touchpoint that reminds users that they are in the right place and that the website is functioning properly. The hover effects for menu items work well. There are a lot of modules with differtent information to let users know they are in the right place. Also, the search tools includes live search suggestions to help the user find what they are looking for. 
 
 #### Severity Rating for Heuristic #1 - 1
 
@@ -228,11 +228,21 @@ This area is lacking. As mentioned above, the navigation does not appear on ever
 <a name="nav"></a> 
 ![NYC Courts website screenshots showing two navigation menus nad search options](https://user-images.githubusercontent.com/91553088/135406205-51f64373-38d4-4157-a904-39c7e66fe095.jpg)
 
+Other than that, the colors stay the same and the website uses an old-fashioned forum-style website layout where users can easily scroll down the middle section to find more content, which is good. 
+
 #### Severity Rating for Heuristic #4 - 2
 
+### #5 - Error prevention
+
+There are not any interactive elements on ths site that would present any errors. The site does a good job at presenting Quick Links, resources for invidiuals without laywers, and a list of options from A to Z. There are a handful of ways the website prevents against user error. 
+
+#### Severity Rating for Heuristic #4 - 1
+
+### #6 - Recognition rather than recall
 
 
-As detailed in the Screenshot in [Heuristic 4](#nav), there are different header colors at the top of different pages. While variety is nice, it can lead to some confusion. Besides that, the 
+
+As detailed in the Screenshot in Heuristic 4, there are different header colors at the top of different pages. While variety is nice, it can lead to some confusion. Besides that, the 
 
 ---
 <a name="*"></a> 
