@@ -89,7 +89,7 @@ As highlighted in the screenshot, there are numerous differences in the menu ite
 > * *Suggestion: The options in the navigation menu must be the same on all pages to provide a consistent experince. See the explanation above for which changes to implement. This earns a severity rating of 3 because it looks like two completely different websites when a user goes from the Home Page to another page on the site.* 
 
 #### Severity Rating for Heuristic #4 - 3
-
+<a name="5"></a> 
 ### #5 - Error prevention
 
 The website includes a some red dialogue boxes that include warnings on certain pages, which is good. However, the website does not include a footer. This can go in multiple Heuristic categories, but not having a Footer hurts error prevention, user control and freedom, and more. I put it in error prevention because many users go to the footer to look for a Privacy Policy, a contact option, an accessibility statement, and other important shortcuts for users. When there is no footer, the user is stuck with the content on the page. 
@@ -122,9 +122,37 @@ It is relatively easy for the user to find contact information and find informat
 
 The design elements are not consistent, and most of the design elements appear outdated. While the banner at the top and buttons at the bottom have rounded edges, the ones on the web page have straight edges. On the home page, there are also multiple fonts being used inconsistently, and the icons on the home page are clunky and undesirable. 
 
+> * *Suggestion: Improve how cohesive the design is overall by using rounded edges in more places, or abandoning them entirely. Use more consistent fonts by removing the Helvetica font on the first page.* 
+
 ![CJC Website, comparison of rounded-edged elements and straight edges.](https://user-images.githubusercontent.com/91553088/135396179-c4471a28-8c40-4a27-96b4-e3a4176fc018.jpg)
 
-On certain pages, the design is too simple and could be complimented with the use of images. Things like the About page and the staff page need images to provide context to all the words on the screen. It will greatly help with the user's experience on the page. 
+On certain pages, the design is too simple and could be complimented with the use of images. Pages like the [Overview page](http://cjc.ny.gov/General.Information/overview.html) and the [Staff page](http://cjc.ny.gov/General.Information/Gen.Info.Pages/staff.html) need images to provide context to all the words on the screen. It will greatly help with the user's experience on the page. 
+
+> * *Suggestion: Include a photo of the office, or a photo of New York to improve the design on the Overview page, and include staff headshots on the about page to add more elements to the page than just text.* 
+
+#### Severity Rating for Heuristic #8 - 2
+
+### #9 - Help users recognize, diagnose, and recover from errors
+
+The website notifies users that when they use the search function, it appeaars in a pop-up window. It let's them know they need to scroll around or use the tab key, otherwise the window will close automatically. Also the contact option in the navigation menu makes that information easily available. There is also an accessibility toolbar to help users modify the contents on the screen to make them higher contrast, bold, etc. 
+
+As mentioned previously, improving the search function would be helpful, and also including a Footer would help users tremendously. [(See Heuristic #5)](#5)
+
+#### Severity Rating for Heuristic #9 - 1
+
+### #10 - Help and documentation
+
+As mentioned previously, including a Footer section would help users find access to tools, resources, options and help while using the site. [(See Heuristic #5)](#5). On the other hand, the contact information is easy for the user to find, which is good. On the "File a Complaint" page, the website walks the user through the process which is great. Other than that, the amount of help documentation is somewhat limited, but the website makes it relatively easy for user to find what they are looking for. 
+
+#### Severity Rating for Heuristic #10 - 1
+
+### Overall Takeaways
+
+The website makes it eaasy for the public to use the website as intended, but it is outdated anad there are a lot of improvements that can be made. These improvements range from large to small, but they add up, and lead to an unpleasant experience for the user. While the website is functional, there are important changes to make across several heuristics. 
+
+---
+
+
 
 
 ---
