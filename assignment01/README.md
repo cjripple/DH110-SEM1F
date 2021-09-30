@@ -24,7 +24,7 @@ Purpose of the assignment - 3-5 sentences of what you want to show.
 ---
 
 ##### References: 
- *http://ww2.nycourts.gov/sites/default/files/document/files/2019-06/NYCourts-IntroGuide.pdf <br> 
-https://www.ny.gov/ <br> 
-https://www.nycourts.gov/ <br> 
-http://cjc.ny.gov/
+* *http://ww2.nycourts.gov/sites/default/files/document/files/2019-06/NYCourts-IntroGuide.pdf <br> 
+* https://www.ny.gov/ <br> 
+* https://www.nycourts.gov/ <br> 
+* http://cjc.ny.gov/
