@@ -1,8 +1,12 @@
-# Assignment 01 / Heuristic Evaluation of NYS Commission on Judicial Conduct Website
+# Assignment 01 / Heuristic Evaluation of New York State's Websites for their Unified Court system
 Connor Ripple
 Professor Cho
 DH110 - SEM1F, 2021
 30 September 2021
+
+### About this Project
+
+
 
 ### Information About the Website
 Link to website: http://cjc.ny.gov/
