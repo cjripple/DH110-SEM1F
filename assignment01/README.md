@@ -223,13 +223,16 @@ Becuase there are so many options, a user may need to click through multiple lin
 
 ### #4 - Consistency and standards
 
-This area is lacking. As mentioned above, the navigation does not appear on every page (such as the Home page). As detailed in the screenshot below, the Search bar appears directly on some pages, while it refers to a dedicated search page on other pages. 
+This area is lacking. As mentioned above, the navigation does not appear on every page (such as the [Home page](https://www.nycourts.gov/home.shtml) and on the [Court Help](https://www.nycourts.gov/courthelp/) page). As detailed in the screenshot below, the Search bar appears directly on some pages, while it refers to a dedicated search page on other pages. 
 
-<a name="navigation"></a> 
+<a name="nav"></a> 
 ![NYC Courts website screenshots showing two navigation menus nad search options](https://user-images.githubusercontent.com/91553088/135406205-51f64373-38d4-4157-a904-39c7e66fe095.jpg)
 
+#### Severity Rating for Heuristic #4 - 2
 
-As detailed in the Screenshot in [Heuristic 4](#navigation), there are different header colors at the top of pages, depending on the sites. 
+
+
+As detailed in the Screenshot in [Heuristic 4](#nav), there are different header colors at the top of different pages. While variety is nice, it can lead to some confusion. Besides that, the 
 
 ---
 <a name="*"></a> 
