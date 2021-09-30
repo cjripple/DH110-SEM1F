@@ -106,8 +106,19 @@ Because of the lack of consistency in the navigation menu, [(See Heuristic #4)](
 
 On the good side, the content on the home page is simple, and easy to recognize right away. 
 
-#### Severity Rating for Heuristic #5 - 3 (Same as #4)
+#### Severity Rating for Heuristic #6 - 3 (Same as #4)
 
+### #7 - Flexibility and efficiency of use
+
+The width of the website content does not stretch to the full length of the user's window, which can restrict how large the content appears on each user's screen. 
+
+> * *Suggestion: Use Javascript (or other changes) to stretch the content width to 100%. That way, there is more room between website elements, and the elements are easier to see.* 
+
+It is relatively easy for the user to find contact information and find information on filing a complaint, which is good. While the navigation menu is packed with many options, the web pages themselves are simple and easy to read. 
+
+#### Severity Rating for Heuristic #7 - 1 
+
+### #8 - Aesthetic and minimalist design
 
 ---
 <a name="*"></a> 
