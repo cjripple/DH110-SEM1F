@@ -11,6 +11,7 @@ DH110 - Fall 2021 <br>
 
 The court system in the State of New York is one of the largest and oldest in the country. Handling nearly four million cases a year [*](#*), it is imperative that the New York Government has robust and and easy-to-navigate websites for users to find resources and help. Considering that New York's different courts handle different types of cases, it's important for users to be able to help themselves using the website. This project will examine UX design choices that work well, and choices that can be implemented to make the website esaier to navigate, as well as a platform that is accessible for everyone. 
 
+## Website 1 - New York State - Commission on Judicial Conduct
 
 ### Information About the Website
 Link to website: http://cjc.ny.gov/
@@ -18,6 +19,8 @@ Link to website: http://cjc.ny.gov/
 ![Screenshot of the New York State Commission on Judicial Conduct Website, taken September 28, 2021](https://github.com/cjripple/DH110-SEM1F/blob/83fe447f7b0019056d2e3644e98f12da8e2c5be5/assignment01/cjc-screenshot.png)
 
 This website is managed by the State of New York, and it provides the public with resources and options for investigating judicial misconduct against certain judges in New York. One of the main purposes of the website is to make it easy to file a complaint, and to find relevant news, resources, and content. 
+
+
 
 
 
