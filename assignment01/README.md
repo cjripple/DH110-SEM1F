@@ -157,11 +157,11 @@ Link to website: https://www.nycourts.gov/
 
 ![Screenshot of the New York State Courts website home page, taken September 29, 2021](https://user-images.githubusercontent.com/91553088/135399160-9338df3c-b9a6-42c8-9475-e8c46cf1c54a.jpg)
 
-This website is managed by the State of New York, and it provides millions with resources and directions for New York's vast and large court system. It is meany to serve as many people as possible with public court recrods, information for lawyers and people representing themselves in court, and more.  
+This website is managed by the State of New York, and it provides millions with resources and directions for New York's vast and large court system. It is meant to serve as many people as possible with public court records, information for lawyers and people representing themselves in court, and more.  
 
 #### Goals
 
-Make the website navigation more cohesive across pages to make the website easier and more consistent. Additionally, provide adjustments to make the website more accessible for various users. 
+Maximize the layout of the vast amount of content on this page so users can find what they are looking for faster and easier. Also redesign the website to make it look more modern, flat, and simple. 
 
 ## Heuristic Evaluation
 
