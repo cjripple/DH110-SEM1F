@@ -1,9 +1,9 @@
 # Assignment 01 / Heuristic Evaluation of New York State's Websites for their Unified Court system
 
-Connor Ripple
-Professor Cho
-DH110 - Fall 2021
-30 September 2021
+Connor Ripple <br>
+Professor Cho <br>
+DH110 - Fall 2021 <br>
+30 September 2021 <br>
 
 ### About this Project
 
