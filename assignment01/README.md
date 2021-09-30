@@ -26,6 +26,11 @@ Make the website navigation more cohesive across pages to make the website easie
 
 ### Heuristic Evaluation
 
+#### #1 - Visibility of System Status
+
+Right away, the search bar is cluttered with multiple text boxes superimposed over each other, making it very difficult to read. 
+
+> * Suggestion: 
 
 
 
