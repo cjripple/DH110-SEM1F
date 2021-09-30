@@ -26,7 +26,7 @@ Make the website navigation more cohesive across pages to make the website easie
 
 ### Heuristic Evaluation
 
-#### #1 - Visibility of System Status
+#### #1 - Visibility of system status
 
 Right away, the search bar is cluttered with multiple text boxes superimposed over each other, making it very difficult to read. This needs to be cleaned up. Please see the attachment below for reference, the issue is highlighted in a green rectangle. 
 
@@ -38,15 +38,24 @@ Secondly, there are no live search suggestions. This makes the website appear st
 
 > * *Suggestion: Although there may be a lot of search results, it would help the user find what they are looking for if there are live search suggeestions/reccomendations as soon as the user starts typing. Having only a couple of the most searched-for results pop up first can help with too many suggestions coming up at once.* 
 
+When a user navigates around the website, the navigation menu updates with a "Home" icon to return to the home page. There is no hover effect for this action, like the rest of the menu items in the navigation menu. 
+
+> * *Suggestion: Add a hover effect (such as a color change) to the home icon so users know that this button works, just like the rest of the buttons on the page. * 
+
 Lastly, the links are hyperlinked and light up when hovered, but the "moused over" interaction spotlight could be a little more noticeable in the navigation menu. This is important so users can tell which page they are currently mousing over. This is important to system status becuause it is a design touchpoint that lets users know which page they are about to enter into.  
 
 > * *Suggestion: Increase the amount of contrast between items that are moused over versus ones that are inactive. This will make it easier to navigate for individuals with vision impairments.* 
 
 #### #2 - Match between system and the real world
 
-There are many references to several government positions and processes that require additional explanations. On the websitem, these have been hyperlinked to a page with more information.This can be very confusing for new visitors. 
+There are many references to several government positions and processes that require additional explanations. On the websitem, these have been hyperlinked to a page with more information.This can be very confusing for new visitors. If a user wanted to learn about what the CJC does, they will have to jump around multiple pages to find out what they do. 
 
-> * *Suggestion: For some web pages, it would be helpful to provide a little more context on what certain terms might mean wiuthout them needing to leav the web page or use external resources.* 
+![CJC Website - About Page](https://user-images.githubusercontent.com/91553088/135389832-1dde167b-4e69-4f78-ac50-7645bedef7a8.jpg)
+
+> * *Suggestion: For some web pages, it would be helpful to provide a little more context on what certain terms might mean wiuthout them needing to leave the web page or use external resources. In the screenshot above, there is a lot of hyperlinked content that explains what each sentence is saying. * 
+
+#### #3 - User control and freedom
+
 
 
 ---
