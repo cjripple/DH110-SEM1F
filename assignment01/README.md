@@ -16,7 +16,7 @@ The court system in the State of New York is one of the largest and oldest in th
 ### Information About the Website
 Link to website: http://cjc.ny.gov/
 
-![Screenshot of the New York State Commission on Judicial Conduct Website, taken September 28, 2021](https://github.com/cjripple/DH110-SEM1F/blob/83fe447f7b0019056d2e3644e98f12da8e2c5be5/assignment01/cjc-screenshot.png)
+![Screenshot of the New York State Commission on Judicial Conduct Website home page, taken September 28, 2021](https://github.com/cjripple/DH110-SEM1F/blob/83fe447f7b0019056d2e3644e98f12da8e2c5be5/assignment01/cjc-screenshot.png)
 
 This website is managed by the State of New York, and it provides the public with resources and options for investigating judicial misconduct against certain judges in New York. One of the main purposes of the website is to make it easy to file a complaint, and to find relevant news, resources, and content. 
 
@@ -155,8 +155,17 @@ The website makes it eaasy for the public to use the website as intended, but it
 ## Website 2 - [New York State - Unified Court System](https://www.nycourts.gov/)
 Link to website: https://www.nycourts.gov/
 
-Screenshot of the New York State Courts website, taken September 29, 2021
+![Screenshot of the New York State Courts website home page, taken September 29, 2021](https://user-images.githubusercontent.com/91553088/135399160-9338df3c-b9a6-42c8-9475-e8c46cf1c54a.jpg)
 
+This website is managed by the State of New York, and it provides millions with resources and directions for New York's vast and large court system. It is meany to serve as many people as possible with public court recrods, information for lawyers and people representing themselves in court, and more.  
+
+#### Goals
+
+Make the website navigation more cohesive across pages to make the website easier and more consistent. Additionally, provide adjustments to make the website more accessible for various users. 
+
+## Heuristic Evaluation
+
+### #1 - Visibility of system status
 
 ---
 <a name="*"></a> 
