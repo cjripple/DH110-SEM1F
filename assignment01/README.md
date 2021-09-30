@@ -1,11 +1,13 @@
 # Assignment 01 / Heuristic Evaluation of New York State's Websites for their Unified Court system
+
 Connor Ripple
 Professor Cho
-DH110 - SEM1F, 2021
+DH110 - Fall 2021
 30 September 2021
 
 ### About this Project
 
+The court system in the State of New York is one of the largest and oldest in the country. Handling nearly four million cases a year*, it is imperative that the New York Government has robust and and easy-to-navigate websites for users to find resources and help. Considering that New York's different courts handle different types of cases, it's important for users to be able to help themselves using the website. This project will examine UX design choices that work well and can be implemented to make the website esaier to navigate, as well as a platform that is aaccessible for everyone. 
 
 
 ### Information About the Website
