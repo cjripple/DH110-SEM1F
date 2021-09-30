@@ -120,6 +120,13 @@ It is relatively easy for the user to find contact information and find informat
 
 ### #8 - Aesthetic and minimalist design
 
+The design elements are not consistent, and most of the design elements appear outdated. While the banner at the top and buttons at the bottom have rounded edges, the ones on the web page have straight edges. On the home page, there are also multiple fonts being used inconsistently, and the icons on the home page are clunky and undesirable. 
+
+![CJC Website, comparison of rounded-edged elements and straight edges.](https://user-images.githubusercontent.com/91553088/135396179-c4471a28-8c40-4a27-96b4-e3a4176fc018.jpg)
+
+On certain pages, the design is too simple and could be complimented with the use of images. Things like the About page and the staff page need images to provide context to all the words on the screen. It will greatly help with the user's experience on the page. 
+
+
 ---
 <a name="*"></a> 
 ##### References: 
