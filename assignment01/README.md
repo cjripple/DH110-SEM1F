@@ -173,6 +173,11 @@ Upon page load, a video embed starts playing. While this is obtrusive, it is a t
 
 ### #2 - Match between system and the real world
 
+There is a lot of updated information about policies and laws happening during the pandemic, and it's easy for an individual to find resources and options if they do not have access to a lawyer. The explanations on the content are simple and it's simple to look around without using outside dictionaries or web-pages. This site feels like a "home" or "hub" for people to find helpful information. 
+
+#### Severity Rating for Heuristic #2 - 1
+
+
 
 
 ---
