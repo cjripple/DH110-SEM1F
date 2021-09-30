@@ -24,9 +24,9 @@ This website is managed by the State of New York, and it provides the public wit
 
 Make the website navigation more cohesive across pages to make the website easier and more consistent. Additionally, provide adjustments to make the website more accessible for various users. 
 
-### Heuristic Evaluation
+## Heuristic Evaluation
 
-#### #1 - Visibility of system status
+### #1 - Visibility of system status
 
 Right away, the search bar is cluttered with multiple text boxes superimposed over each other, making it very difficult to read. This needs to be cleaned up. Please see the attachment below for reference, the issue is highlighted in a green rectangle. 
 
@@ -46,19 +46,44 @@ Lastly, the links are hyperlinked and light up when hovered, but the "moused ove
 
 > * *Suggestion: Increase the amount of contrast between items that are moused over versus ones that are inactive. This will make it easier to navigate for individuals with vision impairments.* 
 
-#### #2 - Match between system and the real world
+The website has an up-to-date banner with information on the Pandemic, which is good. 
+
+#### Severity Rating for Heuristic #2 - 3
+
+### #2 - Match between system and the real world
 
 There are many references to several government positions and processes that require additional explanations. On the websitem, these have been hyperlinked to a page with more information.This can be very confusing for new visitors. If a user wanted to learn about what the CJC does, they will have to jump around multiple pages to find out what they do. 
 
 ![CJC Website - About Page](https://user-images.githubusercontent.com/91553088/135389832-1dde167b-4e69-4f78-ac50-7645bedef7a8.jpg)
 
-> * *Suggestion: For some web pages, it would be helpful to provide a little more context on what certain terms might mean wiuthout them needing to leave the web page or use external resources. In the screenshot above, there is a lot of hyperlinked content that explains what each sentence is saying. * 
+> * *Suggestion: For some web pages, it would be helpful to provide a little more context on what certain terms might mean wiuthout them needing to leave the web page or use external resources. In the screenshot above, there is a lot of hyperlinked content that explains what each sentence is saying.* 
 
-##### Severity Rating for Heuristic #2 - 1
+#### Severity Rating for Heuristic #2 - 1
 
-#### #3 - User control and freedom
+### #3 - User control and freedom
 
 The search results appear in a pop-up, rather than a results page, making it easy to lose search results if a user is not ready to click onto a new page. 
+
+> * *Suggestion: Revamp the search function so users can save their search, or navigate the search function easier.* 
+
+The logo on the top left of the navigation bar is not clickable, making it counterintuitive for users to return home. 
+
+> * *Suggestion: Like the vast majority of websites, add a link to the CJC Banner on the navigation menu that takes users back to the home page. * 
+
+Other than that, the content and layout of the content on the website is simple and easy for a user to navigate. 
+
+#### Severity Rating for Heuristic #3 - 2
+
+### #4 - Consistency and standards
+
+As mentioned above, going with the standard method to return home in the navigation menu is very important (see above). However, there are all sorts of issues with consistency of the Navigation Bar. 
+
+![CJC Navigation Menu Comparison on the about page versus the home page](https://user-images.githubusercontent.com/91553088/135391701-15acef60-dbe5-40b2-b857-347622e50834.jpg)
+
+As highlighted in the screenshot, there are numerous differences in the menu items, leading to a very confusing and inconsistent experince for the viewer. 
+
+
+
 
 
 ---
