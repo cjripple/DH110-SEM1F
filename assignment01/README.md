@@ -219,13 +219,13 @@ Becuase there are so many options, a user may need to click through multiple lin
 
 > * *Suggestion: The navigation menu is not visible on the home page but it is on other pages. It should be included on the home page as well. The navigation menu should also be larger so it is easier for users to access.*
 
-#### Severity Rating for Heuristic #2 - 2
+#### Severity Rating for Heuristic #3 - 2
 
 ### #4 - Consistency and standards
 
 This area is lacking. As mentioned above, the navigation does not appear on every page (such as the [Home page](https://www.nycourts.gov/home.shtml) and on the [Court Help](https://www.nycourts.gov/courthelp/) page). As detailed in the screenshot below, the Search bar appears directly on some pages, while it refers to a dedicated search page on other pages. 
 
-<a name="nav"></a> 
+<a name="42"></a> 
 ![NYC Courts website screenshots showing two navigation menus nad search options](https://user-images.githubusercontent.com/91553088/135406205-51f64373-38d4-4157-a904-39c7e66fe095.jpg)
 
 Other than that, the colors stay the same and the website uses an old-fashioned forum-style website layout where users can easily scroll down the middle section to find more content, which is good. 
@@ -236,12 +236,31 @@ Other than that, the colors stay the same and the website uses an old-fashioned 
 
 There are not any interactive elements on ths site that would present any errors. The site does a good job at presenting Quick Links, resources for invidiuals without laywers, and a list of options from A to Z. There are a handful of ways the website prevents against user error. 
 
-#### Severity Rating for Heuristic #4 - 1
+#### Severity Rating for Heuristic #5 - 1
 
 ### #6 - Recognition rather than recall
 
-As detailed in the Screenshot in [Heuristic #4](#nav), there are different header colors at the top of different pages. While variety is nice, it can lead to some confusion. And with the search bar not appearing the same every time, this caan also hurt recognition. 
+As detailed in the Screenshot in [Heuristic #4](#42), there are different header colors at the top of different pages. While variety is nice, it can lead to some confusion. And with the search bar not appearing the same every time, this can also hurt recognition. 
 
+> * *Suggestion: Make the navigation menu more robust by making access to search easier, and also including submenu items for the most commonly sought resources. This can help improve recognition, as submenus allow the most common links to be organized into sections.*
+
+Otherwise, there is a wide varity of content from COVID information, to resources for individuals nad lawyers. While the navigation is very text heavy, it is straightforward for the user to find the right page. 
+
+#### Severity Rating for Heuristic #6 - 2
+
+### #7 - Flexibility and efficiency of use
+
+The news and updates content on the homepage can easily be navigated. It is designed in a blog-style, where the left and right sections are anchored and the user scrolls through the content in the middle. Since the site has a lot of resources and it is content heavy, the navigation of the site can feel a little slow. 
+
+> * *Suggestion: Making a quick links section easier to find can help with efficiency, aas well as allowing for submenu items in the navigation menu. Also, adding an automated chatbot--such as one that the California DMW has--can help users search for ways to find what they are looking for faster.*
+
+#### Severity Rating for Heuristic #7 - 3
+
+### #8 - Aesthetic and minimalist design
+
+Not much information can be removed, since it is essential for that content to be there. Cleaning up the design to be more minimal and modern will be easier on users' eyes. 
+
+#### Severity Rating for Heuristic #7 - 2
 ---
 <a name="*"></a> 
 ##### References: 
