@@ -48,7 +48,7 @@ Lastly, the links are hyperlinked and light up when hovered, but the "moused ove
 
 The website has an up-to-date banner with information on the Pandemic, which is good. 
 
-#### Severity Rating for Heuristic #2 - 3
+#### Severity Rating for Heuristic #1 - 3
 
 ### #2 - Match between system and the real world
 
@@ -166,6 +166,14 @@ Maximize the layout of the vast amount of content on this page so users can find
 ## Heuristic Evaluation
 
 ### #1 - Visibility of system status
+
+Upon page load, a video embed starts playing. While this is obtrusive, it is a touchpoint that reminds users that they are in the right place and that the website is functioning properly. The hover effects for menu items work well. There are a lot of modules with differtent information to let users know they are in the right place. 
+
+#### Severity Rating for Heuristic #1 - 1
+
+### #2 - Match between system and the real world
+
+
 
 ---
 <a name="*"></a> 
