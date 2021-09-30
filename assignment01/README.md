@@ -209,8 +209,27 @@ There is a lot of updated information about policies and laws happening during t
 
 #### Severity Rating for Heuristic #2 - 1
 
+### #3 - User control and freedom
+
+On some pages such as the [E-Courts](https://iapps.courts.state.ny.us/webcivil/ecourtsMain) page, there isn't an option to go back unless a user presses the browswer button. 
+
+> * *Suggestion: It may be helpful to display a pop-up or a message upon hovering (or a description below the link) that informs the user they are going to an external page* 
+
+Becuase there are so many options, a user may need to click through multiple links in order to find the page (or information) they are searching for. One way to make this shorter is by including submenu items in the navigation menu. Additionally, the navigation menu/header section is small. 
+
+> * *Suggestion: The navigation menu is not visible on the home page but it is on other pages. It should be included on the home page as well. The navigation menu should also be larger so it is easier for users to access.*
+
+#### Severity Rating for Heuristic #2 - 2
+
+### #4 - Consistency and standards
+
+This area is lacking. As mentioned above, the navigation does not appear on every page (such as the Home page). As detailed in the screenshot below, the Search bar appears directly on some pages, while it refers to a dedicated search page on other pages. 
+
+<a name="navigation"></a> 
+![NYC Courts website screenshots showing two navigation menus nad search options](https://user-images.githubusercontent.com/91553088/135406205-51f64373-38d4-4157-a904-39c7e66fe095.jpg)
 
 
+As detailed in the Screenshot in Heuristic[#4](#navigation), there are different header colors at the top of pages, depending on the sites. 
 
 ---
 <a name="*"></a> 
