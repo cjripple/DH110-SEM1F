@@ -80,9 +80,13 @@ As mentioned above, going with the standard method to return home in the navigat
 
 ![CJC Navigation Menu Comparison on the about page versus the home page](https://user-images.githubusercontent.com/91553088/135391701-15acef60-dbe5-40b2-b857-347622e50834.jpg)
 
-As highlighted in the screenshot, there are numerous differences in the menu items, leading to a very confusing and inconsistent experince for the viewer. 
+As highlighted in the screenshot, there are numerous differences in the menu items, leading to a very confusing and inconsistent experince for the viewer. The banner listing the Pandemic protocols disappears as soon as a user goes into one of the inner pages. The user will also lose access to the "Links" section as well as the "FAQ" section in the navigation menu unless they go back. The "File a Complaint" button needs to be on the navigation menu for all pages, since that is what the department investigates. It should be consistent and easy to find that option. 
 
+> * *Suggestion: The options in the navigation menu must be the same on all pages to provide a consistent experince. See the explanation above for which changes to implement.* 
 
+#### Severity Rating for Heuristic #3 - 2
+
+### #5 - Error prevention
 
 
 
