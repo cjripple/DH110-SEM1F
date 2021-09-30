@@ -1,4 +1,4 @@
-# Assignment 01 / Heuristic Evaluation of New York State's Websites for their Unified Court system
+# Assignment 01 - Heuristic Evaluation of New York State's Websites for their Unified Court system
 
 Connor Ripple <br>
 Professor Cho <br>
