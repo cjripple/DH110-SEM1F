@@ -40,7 +40,7 @@ Secondly, there are no live search suggestions. This makes the website appear st
 
 When a user navigates around the website, the navigation menu updates with a "Home" icon to return to the home page. There is no hover effect for this action, like the rest of the menu items in the navigation menu. 
 
-> * *Suggestion: Add a hover effect (such as a color change) to the home icon so users know that this button works, just like the rest of the buttons on the page. * 
+> * *Suggestion: Add a hover effect (such as a color change) to the home icon so users know that this button works, just like the rest of the buttons on the page.* 
 
 Lastly, the links are hyperlinked and light up when hovered, but the "moused over" interaction spotlight could be a little more noticeable in the navigation menu. This is important so users can tell which page they are currently mousing over. This is important to system status becuause it is a design touchpoint that lets users know which page they are about to enter into.  
 
@@ -68,16 +68,16 @@ The search results appear in a pop-up, rather than a results page, making it eas
 
 The logo on the top left of the navigation bar is not clickable, making it counterintuitive for users to return home. 
 
-> * *Suggestion: Like the vast majority of websites, add a link to the CJC Banner on the navigation menu that takes users back to the home page. * 
+> * *Suggestion: Like the vast majority of websites, add a link to the CJC Banner on the navigation menu that takes users back to the home page.* 
 
 The search option is only on the home page, making it difficult for users to find the search option once they start exploring the page. 
 
-> * *Suggestion: Include the search option in the navigation menu of all web pages. * 
+> * *Suggestion: Include the search option in the navigation menu of all web pages.* 
 
 Other than that, the content and layout of the content on the website is simple and easy for a user to navigate. 
 
 #### Severity Rating for Heuristic #3 - 2
-
+<a name="4"></a> 
 ### #4 - Consistency and standards
 
 As mentioned above, going with the standard method to return home in the navigation menu is very important (see above). However, there are all sorts of issues with consistency of the Navigation Bar. 
@@ -88,11 +88,19 @@ As highlighted in the screenshot, there are numerous differences in the menu ite
 
 > * *Suggestion: The options in the navigation menu must be the same on all pages to provide a consistent experince. See the explanation above for which changes to implement. This earns a severity rating of 3 because it looks like two completely different websites when a user goes from the Home Page to another page on the site.* 
 
-#### Severity Rating for Heuristic #3 - 3
+#### Severity Rating for Heuristic #4 - 3
 
 ### #5 - Error prevention
 
+The website includes a some red dialogue boxes that include warnings on certain pages, which is good. However, the website does not include a footer. This can go in multiple Heuristic categories, but not having a Footer hurts error prevention, user control and freedom, and more. I put it in error prevention because many users go to the footer to look for a Privacy Policy, a contact option, an accessibility statement, and other important shortcuts for users. When there is no footer, the user is stuck with the content on the page. 
 
+> * *Suggestion: A footer is extremely important. While this website does not need a lot done in terms of error prevention, a footer is really important to help users navigate a website, and help themselves. Many users use the Footer to find the Privacy Statement, Cookie Policy, Accessibility Statement, address and contact information, a disclaimer, a copyright statement, and other helpful shortcuts. This will get a Severity Rating of 3 for these reasons.* 
+
+#### Severity Rating for Heuristic #5 - 3
+
+### #5 - Recognition rather than recall
+
+Because of the lack of consistency in the navigation menu, ([(See Heuristic #4)](#4)it is very difficult for a user to recognize which menu item options are listed, including submenu items. 
 
 
 
