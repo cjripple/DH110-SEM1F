@@ -240,9 +240,7 @@ There are not any interactive elements on ths site that would present any errors
 
 ### #6 - Recognition rather than recall
 
-
-
-As detailed in the Screenshot in Heuristic 4, there are different header colors at the top of different pages. While variety is nice, it can lead to some confusion. Besides that, the 
+As detailed in the Screenshot in [Heuristic #4](#nav), there are different header colors at the top of different pages. While variety is nice, it can lead to some confusion. And with the search bar not appearing the same every time, this caan also hurt recognition. 
 
 ---
 <a name="*"></a> 
