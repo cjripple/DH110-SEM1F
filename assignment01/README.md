@@ -23,3 +23,8 @@ Purpose of the assignment - 3-5 sentences of what you want to show.
 
 ---
 
+##### References: 
+* http://ww2.nycourts.gov/sites/default/files/document/files/2019-06/NYCourts-IntroGuide.pdf
+https://www.ny.gov/
+https://www.nycourts.gov/
+http://cjc.ny.gov/
