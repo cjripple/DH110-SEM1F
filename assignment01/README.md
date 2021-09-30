@@ -30,15 +30,19 @@ Make the website navigation more cohesive across pages to make the website easie
 
 Right away, the search bar is cluttered with multiple text boxes superimposed over each other, making it very difficult to read. This needs to be cleaned up. Please see the attachment below for reference, the issue is highlighted in a green rectangle. 
 
-> * *Suggestion: Remove the Google Branding from the search bar or use another tool to make the search function easier to use. 
+> * *Suggestion: Remove the Google Branding from the search bar or use another tool to make the search function easier to use.* 
 
 ![CJC Search Bar not displaying properly](https://user-images.githubusercontent.com/91553088/135388006-b02ad712-1c0e-41e7-b518-1c8b4f568877.jpg)
 
 Secondly, there are no live search suggestions. This makes the website appear static and it's harder for users to find what they are looking for. 
 
-> * *Suggestion: Although there may be a lot of search results, it would help the user find what they are looking for if there are live search suggeestions/reccomendations as soon as the user starts typing. Having only a couple of the most searched-for results pop up first can help with too many suggestions coming up at once. 
+> * *Suggestion: Although there may be a lot of search results, it would help the user find what they are looking for if there are live search suggeestions/reccomendations as soon as the user starts typing. Having only a couple of the most searched-for results pop up first can help with too many suggestions coming up at once.* 
 
 #### #2 - Match between system and the real world
+
+There are many references to several government positions and processes that require additional explanations. On the websitem, these have been hyperlinked to a page with more information.This can be very confusing for new visitors. 
+
+> * *Suggestion: For some web pages, it would be helpful to provide a little more context on what certain terms might mean wiuthout them needing to leav the web page or use external resources.* 
 
 
 ---
