@@ -7,14 +7,14 @@ DH110 - Fall 2021 <br>
 
 ---
 
-##Legend 
+## Legend 
 
 ### Nielson's Guide to The [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) 
 
 | # | Usability Heuristic | Definition |
 |---|---|---|
 | #1 | Visibility of system status | [See Here](https://www.nngroup.com/articles/visibility-system-status/) |
-| #2 | Match between system and the real world | [See Here](Full article: Match Between the System and the Real World) |
+| #2 | Match between system and the real world | [See Here](https://www.nngroup.com/articles/match-system-real-world/) |
 | #3 | User control and freedom | [See Here](https://www.nngroup.com/articles/user-control-and-freedom/) |
 | #4 | Consistency and standards | [See Here](http://www.nngroup.com/articles/consistency-and-standards/) |
 | #5 | Error prevention | [See Here](https://www.nngroup.com/articles/slips/) |
@@ -24,7 +24,6 @@ DH110 - Fall 2021 <br>
 | #9 | Help users recognize, diagnose, and recover from errors | [See Here](https://www.nngroup.com/videos/usability-heuristic-recognize-errors/) |
 | #10 | Help and documentation | [See Here](https://www.nngroup.com/articles/help-and-documentation/) |
 
----
 
 ### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) 
 
@@ -36,7 +35,9 @@ This scale can be used to measure the urgency and severity of usability issues.
 | #2 | Minor usability problem: fixing this issue should be low priority |
 | #3 | Major usability problem: important to fix, this issue should be given high priority |
 
-Ratings are displayed in parentheses after each usability issue.
+These ratings are provided at the end of each Heuristic in my report. 
+
+---
 
 ### About this Project
 
