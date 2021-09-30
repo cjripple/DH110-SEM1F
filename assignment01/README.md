@@ -220,3 +220,14 @@ There is a lot of updated information about policies and laws happening during t
 * https://www.nycourts.gov/ <br> 
 * http://cjc.ny.gov/
 * https://www.nngroup.com/articles/ten-usability-heuristics/
+* (https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) 
+* (https://www.nngroup.com/articles/visibility-system-status/
+* https://www.nngroup.com/articles/match-system-real-world/
+* https://www.nngroup.com/articles/user-control-and-freedom/
+* http://www.nngroup.com/articles/consistency-and-standards/
+* https://www.nngroup.com/articles/slips/
+* https://www.nngroup.com/articles/recognition-and-recall/
+* https://www.nngroup.com/articles/flexibility-efficiency-heuristic/
+* https://www.nngroup.com/videos/aesthetic-and-minimalist-design/
+* https://www.nngroup.com/videos/usability-heuristic-recognize-errors/
+* https://www.nngroup.com/articles/help-and-documentation/
