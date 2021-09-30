@@ -260,7 +260,25 @@ The news and updates content on the homepage can easily be navigated. It is desi
 
 Not much information can be removed, since it is essential for that content to be there. Cleaning up the design to be more minimal and modern will be easier on users' eyes. 
 
-#### Severity Rating for Heuristic #7 - 2
+#### Severity Rating for Heuristic #8 - 2
+
+### #9 - Help users recognize, diagnose, and recover from errors
+
+There is a navigation menu with important legal and logistical information which is good. As mentioned previously, improving the search function would be helpful for users. The A to Z topics section, quick links section, and various modules help users find exactly whaat they are looking for, which is great. 
+
+#### Severity Rating for Heuristic #9 - 2
+
+### #10 - Help and documentation
+
+The contact information for the department is available in the home page, but it will be better for users to see it in other places, potentially the navigation menu. The ["Representing Yourself"](https://www.nycourts.gov/courthelp/) and ["Court Help"](https://www.nycourts.gov/courthelp/) pages make it easay for the user to find what they aare looking for. Otherwise, there isn't much documentation available. 
+
+#### Severity Rating for Heuristic #10 - 2
+
+### Overall Takeaways
+
+The website does a good job of putting vast amounts of departments, courts, resources, and information all in once place. Since it serves so many people, it is positioned well to serve various parties. It could use a lot of work with modernizing the design and making the content consistent aacross every page, but it does a great job at pointing users where they need to go. 
+
+
 ---
 <a name="*"></a> 
 ##### References: 
