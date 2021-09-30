@@ -38,6 +38,10 @@ Secondly, there are no live search suggestions. This makes the website appear st
 
 > * *Suggestion: Although there may be a lot of search results, it would help the user find what they are looking for if there are live search suggeestions/reccomendations as soon as the user starts typing. Having only a couple of the most searched-for results pop up first can help with too many suggestions coming up at once.* 
 
+Lastly, the links are hyperlinked and light up when hovered, but the "moused over" interaction spotlight could be a little more noticeable in the navigation menu. This is important so users can tell which page they are currently mousing over. This is important to system status becuause it is a design touchpoint that lets users know which page they are about to enter into.  
+
+> * *Suggestion: Increase the amount of contrast between items that are moused over versus ones that are inactive. This will make it easier to navigate for individuals with vision impairments.* 
+
 #### #2 - Match between system and the real world
 
 There are many references to several government positions and processes that require additional explanations. On the websitem, these have been hyperlinked to a page with more information.This can be very confusing for new visitors. 
