@@ -98,10 +98,15 @@ The website includes a some red dialogue boxes that include warnings on certain 
 
 #### Severity Rating for Heuristic #5 - 3
 
-### #5 - Recognition rather than recall
+### #6 - Recognition rather than recall
 
-Because of the lack of consistency in the navigation menu, ([(See Heuristic #4)](#4)it is very difficult for a user to recognize which menu item options are listed, including submenu items. 
+Because of the lack of consistency in the navigation menu, [(See Heuristic #4)](#4) it is very difficult for a user to recognize which menu item options are listed, including submenu items. 
 
+> * *Suggestion: Address the Suggestions for Heuristic #4, and those changes will make the recognition aspect much easier for new and returning users.* 
+
+On the good side, the content on the home page is simple, and easy to recognize right away. 
+
+#### Severity Rating for Heuristic #5 - 3 (Same as #4)
 
 
 ---
