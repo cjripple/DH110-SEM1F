@@ -22,3 +22,12 @@ After conducting a thorough heurisitic evaluation of the website, a large amount
 
 ## Purpose of the Project
 It's imperative that all users can access services and important information that the State of New York provides, and that includes this department. Since the website is not fully compliant with ADA standards, it poses a challenge to users with disabilities and vision impairments. Secondly, the issues with consistency on the  website pose a challenge to finding resources and options for people that need it. This usability testing project will identify common issues that users face while navigating the website, and suggest improvements to make the website as practical and simple as needed. 
+
+## Methodology 
+I made to set up the survey script, privacy policy disclosure, and other elements throughly to make the process straightforward. I also included a handful of questions that I believed were relevant to ask. 
+
+## Survey 
+[Link to the survey:](https://forms.gle/ze7fdDjt2yKzQkjEA)
+
+
+
