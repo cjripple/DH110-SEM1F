@@ -28,6 +28,7 @@ I made to set up the survey script, privacy policy disclosure, and other element
 
 ## Survey 
 [Link to the survey:](https://forms.gle/ze7fdDjt2yKzQkjEA)
+###### Note: This form is still open and accepting responses. If you would like to access the contents of the form, or do this usability test, you are free to do so.
 
 ## Video Link/Video Recording 
 [Link to the video](https://drive.google.com/file/d/1mpX75Rt-cZXTeaD8zsdsC0zieHDMAhL2T/view)
