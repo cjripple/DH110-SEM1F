@@ -37,4 +37,6 @@ I made to set up the survey script, privacy policy disclosure, and other element
 
 This is a great insight into what the world of Usability Testing looks like in the real world. It's fascinating to realize how valuable user/consumer feedback is when developing a product. I've participated in some market research surveys for companies where I provide feedback on daily things I do and use. While this is much different than Usability Testing, I realize that companies allocate a large budget to gathering feedback from real world users. This is another reason why UX job is a fantastic job option; it's very in-demand. This research provides very valuable insights that can lead to future roadmap development of product features, bug fixes, conversion rate/goal completion optimization, and product improvements (pretty much) all across the board.  
 
+While conducting this pilot test, I recognize that my own biases could affect the test and its results. For example, something that I think a common action might be on the website is NOT for someone else. When my participant filled out the form for one of the tasks, they noted that they would not be likely to carry out some of the tasks. I realize that next time, I might want to be more objective with my tasks I assign or put more research into what tasks would be the most common. 
+
 
