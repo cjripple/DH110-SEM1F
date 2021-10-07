@@ -35,6 +35,6 @@ I made to set up the survey script, privacy policy disclosure, and other element
 
 ## Reflection
 
-This is a great insight into what the world of Usability Testing looks like in the real world. It's fascinating to realize how valuable user/consumer feedback is when developing a product. I've participated in some market research surveys for companies where I provide feedback on daily things I do and use. While this is much different than Usability Testing, I realize that companies allocate a large budget to gathering feedback from real world users. This is another reason why UX job is a fantastic job option; it's very in-demand. 
+This is a great insight into what the world of Usability Testing looks like in the real world. It's fascinating to realize how valuable user/consumer feedback is when developing a product. I've participated in some market research surveys for companies where I provide feedback on daily things I do and use. While this is much different than Usability Testing, I realize that companies allocate a large budget to gathering feedback from real world users. This is another reason why UX job is a fantastic job option; it's very in-demand. This research provides very valuable insights that can lead to further development of products, bug fixes, optimization, and pretty much all across the board. 
 
 
