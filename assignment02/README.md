@@ -29,5 +29,7 @@ I made to set up the survey script, privacy policy disclosure, and other element
 ## Survey 
 [Link to the survey:](https://forms.gle/ze7fdDjt2yKzQkjEA)
 
+## Video Link/Video Recording 
+[Link to the video](https://drive.google.com/file/d/1mpX75Rt-cZXTeaD8zsdsC0zieHDMAhL2T/view)
 
 
