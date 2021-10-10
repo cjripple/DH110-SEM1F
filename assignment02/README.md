@@ -31,7 +31,7 @@ I made to set up the survey script, privacy policy disclosure, and other element
 ###### Note: This form is still open and accepting responses. If you would like to access the contents of the form, or do this usability test, you are free to do so.
 
 ## Video Link/Video Recording 
-[Link to the video](https://drive.google.com/file/d/1mpX75Rt-cZXTeaD8zsdsC0zieHDMAhL2T/view)
+[Link to the video](https://drive.google.com/file/d/1OYrFFfP2TztdrjVoTplJ6SsE17VNuC6g/view?usp=sharing)
 
 ## Reflection
 
