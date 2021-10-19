@@ -74,4 +74,6 @@ Overall, I think it would have been best to focus on choosing a participant in t
 
 However, I think that this insight creates opportunity to educate younger populations on the judicial system and how those operations work. If the Commission on Judicial Conduct help training sessions, YouTube videos, or visited schools or colleges, I'm sure that young adults would be more informed on how this worked. Since most young adults will not not how this website works, I think it also requires the website to update its search results to be more useful. So this shortcoming actually led to valuable feedback for the website, since connecting to younger adults is important. 
 
+I took a few notes during the testing, however, for some reason, the Zoom recording did not include our faces. Even though our webcams were on and visible, they were not available in the recording. I will try to ensure this does not happen again. Either way, the user was very expressive verbally, so I am confident on the areas and times that the user struggled with. 
+
 
