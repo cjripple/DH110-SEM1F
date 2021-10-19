@@ -55,17 +55,18 @@ Please see the video recording [here](https://drive.google.com/file/d/1o4sJ7KWcL
 
 If you would like to see an audio-only recording, you may [listen to it here](https://drive.google.com/file/d/1tBKEjShg_1gLh91ms4T5CMSQxgxhg1Nl/view?usp=sharing)
 
-Find the full [interview transcript here](
+Find the full [interview transcript here](https://drive.google.com/file/d/1gYcAO14JQ_xmq81GZRdHEhwkdSPc3DYb/view?usp=sharing)
 
 ## Key Insights and Quotes
 
-##### "I'm assuming"
+###### "I'm assuming"
 During a few of the search results, the user had low confidence on which search options were the correct ones. Often times, the user clicked on the wrong result and had to look around. 
 
-##### "The judicial system reminds me of the social security system... it's confusing"
+###### "The judicial system reminds me of the social security system... it's confusing"
 For many users who do not speak English as their first language, or young adults, this website is unclear and difficult to navigate. Having more training documentation and/or video tutorials may help with this barrier. 
 
-###### This is a 
+###### These websites are more complex. They try to make it as easy as possible but there's just so much information on the website that sometimes I feel like you can get lost with all the information
+Government websites are tricky to develop and present to the public because they serve the people, their business partners, other city departments, and their front-end and back-end operations. The user was asked to comment on the difference between government websites and business websites, and this was one of their concerns. 
 
 ## Reflection
 
