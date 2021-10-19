@@ -49,9 +49,16 @@ For this project, I wanted to focus on a way to gather insights in the way I saw
 
 Please see the interview guide [here](https://docs.google.com/document/d/1lmQnBFiLwt9d_rfHNgKAkM60KwaX7C0JsfgmfSadDhg/edit?usp=sharing)
 
-### Interview Transcript
+#### Interview Transcript
 
 Please see the interview transcript [here]()
+
+## Key Insights and Quotes
+
+
+## Reflection
+
+Overall, I think it would have been best to focus on choosing a participant in the best target audience for my group. Asking my friends at UCLA is a fantastic option (and the best option for me), but they weren't the best one for this project. Becuase this website I chose is on judicial conduct, there are only a select few who actively use the website. As a result, I don't believe I got the most valuable feedback. When doing UX design in the future, I will make sure to screen out and choose participants that are the best match for the UX testing. 
 
 
 
