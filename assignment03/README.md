@@ -45,5 +45,7 @@ For this project, I wanted to focus on a way to gather insights in the way I saw
 
 ## Materials and User Data
 
+#### Guide 
 
+Please see the interview guide [here](https://docs.google.com/document/d/1lmQnBFiLwt9d_rfHNgKAkM60KwaX7C0JsfgmfSadDhg/edit?usp=sharing)
 
