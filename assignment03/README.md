@@ -39,9 +39,11 @@ The context here is very specific. This is for citizens in the State of New York
 
 The user will most likely talk to a another New York deparment, such as one of the New York Courts about their legal options if they were unhappy with a judge's conduct. Secondly, they could likely be using Google or the internet to help them find this activity. Once they find the website, they will look around to see if (and how) the website can help them, and then they will fill out an online complaint intake form. 
 
-#### Qualitative research method
+## Qualitative research method
 
-For this project, I wanted to focus on a way to gather insights in the way I saw best fit. This mostly involved active participatory interaction over Zoom, so I could observe a user and interact with them when and if I needed to. Performning the test over Zoom allowed me to seamlessly record the test to gather more insights easily. 
+For this project, I wanted to focus on a way to gather insights in the way I saw best fit. This mostly involved active participatory interaction over Zoom, so I could observe a user and interact with them when and if I needed to. Performing the test over Zoom allowed me to seamlessly record the test to gather more insights easily. 
+
+## Materials and User Data
 
 
 
