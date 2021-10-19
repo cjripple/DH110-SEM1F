@@ -60,5 +60,6 @@ Please see the interview transcript [here]()
 
 Overall, I think it would have been best to focus on choosing a participant in the best target audience for my group. Asking my friends at UCLA is a fantastic option (and the best option for me), but they weren't the best one for this project. Becuase this website I chose is on judicial conduct, there are only a select few who actively use the website. As a result, I don't believe I got the most valuable feedback. When doing UX design in the future, I will make sure to screen out and choose participants that are the best match for the UX testing. 
 
+However, I think that this insight creates opportunity to educate younger populations on the judicial system and how those operations work. If the Commission on Judicial Conduct help training sessions, YouTube videos, or visited schools or colleges, I'm sure that young adults would be more informed on how this worked. Since most young adults will not not how this website works, I think it also requires the website to update its search results to be more useful. So this shortcoming actually led to valuable feedback for the website, since connecting to younger adults is important. 
 
 
