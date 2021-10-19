@@ -51,10 +51,19 @@ Please see the interview guide [here](https://docs.google.com/document/d/1lmQnBF
 
 #### Interview Transcript
 
-Please see the interview transcript [here]()
+Please see the video recording [here](https://drive.google.com/file/d/1o4sJ7KWcLzAmKy5UYFSKC7hbGLzhYIyQ/view?usp=sharing)
+
+If you would like to see an audio-only recording, you may [listen to it here](https://drive.google.com/file/d/1tBKEjShg_1gLh91ms4T5CMSQxgxhg1Nl/view?usp=sharing)
+
+Find the full [interview transcript here](
 
 ## Key Insights and Quotes
 
+##### "I'm assuming"
+During a few of the search results, the user had low confidence on which search options were the correct ones. Often times, the user clicked on the wrong result and had to look around. 
+
+##### "The judicial system reminds me of the social security system... it's confusing"
+For many users who do not speak English as their first language, or young adults, this website is unclear and difficult to navigate. Having more training documentation and/or video tutorials may help with this barrier. 
 
 ## Reflection
 
