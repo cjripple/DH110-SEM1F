@@ -29,5 +29,6 @@ This can make resources easily available for people who are not near the New Yor
 
 #### What are the characteristics of users?
 
+The audience profile who uses this website is pretty diverse. The average age is estimated ~35 years old, with the majority of users being from minority backgrounds who are interested in their legal rights. 
 
 
