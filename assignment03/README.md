@@ -21,6 +21,13 @@ Although individuals can send in a complaint by walking in or mailing a form, th
 
 The current solution is by filing a complaint by walking into the office or mailing a form instead of using the website. There aren't many other options, but a user can find this project by a quick Google search. 
 
+#### What are the limitations that possibly would be improved with (digital) technology?
+
+This can make resources easily available for people who are not near the New York Commission on Judicial Conduct office. It also allows users to file and submit a complaint faster and easier. Digital technology also allows someone to consult the office easier. 
+
+## Target Users
+
+#### What are the characteristics of users?
 
 
 
