@@ -35,6 +35,11 @@ The audience profile who uses this website is pretty diverse. The average age is
 
 The context here is very specific. This is for citizens in the State of New York who are interested in filing a complaint and/or investigating misconduct from a New York Judge. In some cases, a user may look up this website for research purposes in advance, or might be doing research to help a friend, but most of the time, the user will use the website to help themselves after an interaction with a judge. 
 
+#### What do/did the users usually do in order to complete that activity? 
+
+The user will most likely talk to a another New York deparment, such as one of the New York Courts about their legal options if they were unhappy with a judge's conduct. Secondly, they could likely be using Google or the internet to help them find this activity. Once they find the website, they will look around to see if (and how) the website can help them, and then they will fill out an online complaint intake form. 
+
+
 
 
 
