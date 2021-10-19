@@ -29,6 +29,12 @@ This can make resources easily available for people who are not near the New Yor
 
 #### What are the characteristics of users?
 
-The audience profile who uses this website is pretty diverse. The average age is estimated ~35 years old, with the majority of users being from minority backgrounds who are interested in their legal rights. Users are in the working class and low-income backgrounds.  
+The audience profile who uses this website is pretty diverse. The average age is estimated ~35 years old, with the majority of users being from minority backgrounds who are interested in their legal rights. Users are in the working class and low-income backgrounds. 
+
+#### In which context (where, why) would the users do that activity?
+
+The context here is very specific. This is for citizens in the State of New York who are interested in filing a complaint and/or investigating misconduct from a New York Judge. In some cases, a user may look up this website for research purposes in advance, or might be doing research to help a friend, but most of the time, the user will use the website to help themselves after an interaction with a judge. 
+
+
 
 
