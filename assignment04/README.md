@@ -36,6 +36,8 @@ During the pilot user testing and the contextual inquiry activities, a pressing 
 
 #### Why? 
 
+Hector is single and lives alone. Living in New York isn't the cheapest and he has some credit card debt that still needs to be paid off. He faces some language barriers but has trouble overcoming it due to the large amounts of Spanish spoken in the workplace, and his long work hours. At the same time, he doesn't know his options regarding his rights as an employee. After he gets hurt, he is able to get workers comp insurance, but he realizes that his accident at work could have been avoided, and that he can potentially sue for negligence. However, he felt like the  judge discriminated against him due to his lack of knowledge of English. After the hearing, he conduycted a Google search and came across the New York State - Commission on Judicial Conduct's website.  
+
 #### How?
 
 ## Hector's Journey Map
