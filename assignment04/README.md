@@ -62,7 +62,7 @@ Hector came across the website after searching how to file a complaint and repor
 
 # Reflection
 
-The feature requests were difficult to priortize becuase there are a lot of issues that affect the overall usability of the website. However, with all business operations, tasks need to be prioritized becuase not everything can be tackled on the same time. I thought the chatbot search soluation was a great way to tackle multiple usabililty issues at once.
-
 I wanted to be mindful of the population that the New York State Commission on Judicial Conduct serves. I work-part time with the City of Los Angeles in their Civil and Human Rights and Equity Departmnet, and we try to make our materials available in English, Spanish, but also Chinese, Mandarian, and other languages that comprise the LA population. I'm sure it is a similar case with the city of New york. I chose these two personas because these are demographics that we explored during my work, and we held information sessions for workers rights, and discrimination law for these personas that I included in my project. 
+
+The feature requests were difficult to priortize becuase there are a lot of issues that affect the overall usability of the website. However, with all business operations, tasks need to be prioritized becuase not everything can be tackled on the same time. I thought the chatbot search solution was a great way to tackle multiple usabililty issues at once, and same thing with the "Get Help" page. Overall, I think this exercise was a lot of fun and involved some creativity, a lot of research, and taking a deep dive into what audiences are trying to be served with this project. Getting the personas to be accurate is challenging but it is super important as well. 
 
