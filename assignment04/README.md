@@ -30,7 +30,7 @@ I specifically wanted to include two working-class citizens because the working-
 
 ## Proposed Features, Scenarios and Journey Maps
 
-### Feature 1 - Self-Help Solutions and Resources Page (Imani)
+### Feature 1 - "Get Help" (Self-Help Solutions and Resources Page) - Imani
 
 #### Why?
 
@@ -42,8 +42,9 @@ Imani has been made aware of the New York State Commission on Judicial Conduct's
 
 ### Imani's Journey Map
 
+![Journey Map - Imani](https://user-images.githubusercontent.com/91553088/138827598-d6d5d6bf-bcfc-45a7-a6ff-dda8f7e4efef.png)
 
-### Feature 2 - Chatbot Search Solution (Hector)
+### Feature 2 - Chatbot Search Solution - Hector
 
 During the pilot user testing and the contextual inquiry activities, a pressing issue that kept coming up was the issues using the search features on the website. It was confusing and did not make using the website any easier. Considering Hector's situation, a chatbot is the person solution to allow him to find answer to questions 24/7, and in multiple languages. 
 
