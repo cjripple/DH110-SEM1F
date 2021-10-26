@@ -13,7 +13,7 @@ Because this website is meant to serve a wide population across the State of New
 
 ## Personas and Empathy Maps
 
-### Introduction and Justifications for These Two Personas 
+### Introduction and Justifications for These Two Personas - UX Storytelling
 
 I specifically wanted to include two working-class citizens because the working-class employees are most likely to face discrimination or mistreatment at work and potentially, in the New York court system. Nost of the time, lower-middle class and low-income people are unaware of their rights, and are more vulnerable to unfair treatment for these reasons. In order to expand equity, it's important to serve these demographics with the personas and UX design planning, especially since they are likely to use the New York State Commission on Judicial Conduct's services. 
 
