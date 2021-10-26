@@ -11,10 +11,12 @@ DH110 - Fall 2021 <br>
 
 Because this website is meant to serve a wide population across the State of New York, it's important to consider diverse perspectives and stories in the target audience. This often includes minority populations, and people who do not speak English as their first language. UX Storytelling is important becuase we want a website and its contents to be accessible to everyone, and should empower and affirm people. We will be able to understand the NYC CJC website's through real user's stories, and be able to gain insights on their behavior, their context, adn their pain points. 
 
-## Personas and Empathy Map s
+## Personas and Empathy Maps
 
 ### Introduction and Justifications for These Two Personas 
 
 I specifically wanted to include two working-class citizens because the working-class employees are most likely to face discrimination or mistreatment at work and potentially, in the New York court system. Nost of the time, lower-middle class and low-income people are unaware of their rights, and are more vulnerable to unfair treatment for these reasons. In order to expand equity, it's important to serve these demographics with the personas and UX design planning, especially since they are likely to use the New York State Commission on Judicial Conduct's services. 
 
 ### Persona 1: Imani Loyola - A technologist and customer support representative
+
+### Persona 2: Hector Ruiz - A Spanish-only speaking construction worker 
