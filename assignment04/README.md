@@ -19,4 +19,7 @@ I specifically wanted to include two working-class citizens because the working-
 
 ### Persona 1: Imani Loyola - A technologist and customer support representative
 
+![Imani Loyola](https://user-images.githubusercontent.com/91553088/138819166-200ad3e1-df13-48ba-9f57-3b5c8b89464a.png)
+
+
 ### Persona 2: Hector Ruiz - A Spanish-only speaking construction worker 
