@@ -19,9 +19,11 @@ I specifically wanted to include two working-class citizens because the working-
 
 ### Persona 1: Imani Loyola - A technologist and customer support representative
 
-![Imani Loyola](https://user-images.githubusercontent.com/91553088/138819166-200ad3e1-df13-48ba-9f57-3b5c8b89464a.png)
+![Persona - Imani Loyola](https://user-images.githubusercontent.com/91553088/138819166-200ad3e1-df13-48ba-9f57-3b5c8b89464a.png)
+![Empathy Map - Imani](https://user-images.githubusercontent.com/91553088/138819491-c99c6bdf-dcb7-4a3e-b7a8-197d8448c443.png)
 
 
 ### Persona 2: Hector Ruiz - A Spanish-only speaking construction worker 
 
-![Hector Ruiz](https://user-images.githubusercontent.com/91553088/138819311-224bff8b-6845-47cf-911e-94a6bcaf47d0.png)
+![Persona - Hector Ruiz](https://user-images.githubusercontent.com/91553088/138819311-224bff8b-6845-47cf-911e-94a6bcaf47d0.png)
+![Empathy Map - Hector](https://user-images.githubusercontent.com/91553088/138819511-34f03a4f-0457-4c05-9916-9f3c3b990f09.png)
