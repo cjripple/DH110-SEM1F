@@ -9,7 +9,7 @@ DH110 - Fall 2021 <br>
 
 ## The Purpose of UX Storytelling
 
-Because this website is meant to serve a wide population across the State of New York, it's important to consider diverse perspectives and stories in the target audience. This often includes minority populations, and people who do not speak English as their first language. UX Storytelling is important becuase we want a website and it's contents to be accessible to everyone, and should empower and affirm people. 
+Because this website is meant to serve a wide population across the State of New York, it's important to consider diverse perspectives and stories in the target audience. This often includes minority populations, and people who do not speak English as their first language. UX Storytelling is important becuase we want a website and its contents to be accessible to everyone, and should empower and affirm people. We will be able to understand the NYC CJC website's through real user's stories, and be able to gain insights on their behavior, their context, adn their pain points. 
 
 ## Personas and Empathy Map s
 
