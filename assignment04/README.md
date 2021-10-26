@@ -30,7 +30,7 @@ I specifically wanted to include two working-class citizens because the working-
 
 ## Proposed Features, Scenarios and Journey Maps
 
-### Feature 2 - Chatbot Search Solution
+### Feature 2 - Chatbot Search Solution (Hector)
 
 During the pilot user testing and the contextual inquiry activities, a pressing issue that kept coming up was the issues using the search features on the website. It was confusing and did not make using the website any easier. Considering Hector's situation, a chatbot is the person solution to allow him to find answer to questions 24/7, and in multiple languages. 
 
@@ -43,4 +43,8 @@ Hector is single and lives alone. Living in New York isn't the cheapest and he h
 Hector came across the website after searching how to file a complaint and report a judge mishandling the case. At the same time, he consulted a lawyer who mentioned that they will need to work with this office. He finds the website pretty easily, but he is disappointed with how confusing the website is to navigate, and how it is packed with so much information. When he uses the Spanish options at the bottom of the website, he notices that certain important pages are still in English. He uses Google translate to try to dunerstand what is going on, but the information is unclear and he still has questions. He tries to call the office, but when he asks the persono if they speak English they say no, all people who spoke Spanish were out of office that day. Since Hector works long hours, he can't call anytime soon either during business hours. He can quickly and easily adopty the chatbot solution to answer his questions (in English and in Spanish) without having to confront a human or wait for them to respond. The answers are clear and precise, and it takes himt to the correct web page right away.  
 
 ## Hector's Journey Map
+
+![Journey Map - Hector](https://user-images.githubusercontent.com/91553088/138821452-17cd3675-a3d0-4d7b-9bd6-49f8d5c37629.png)
+
+
 
