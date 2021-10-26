@@ -30,6 +30,10 @@ I specifically wanted to include two working-class citizens because the working-
 
 ## Proposed Features, Scenarios and Journey Maps
 
+### Feature 1 - Chatbot Search Solution (Imani)
+
+
+
 ### Feature 2 - Chatbot Search Solution (Hector)
 
 During the pilot user testing and the contextual inquiry activities, a pressing issue that kept coming up was the issues using the search features on the website. It was confusing and did not make using the website any easier. Considering Hector's situation, a chatbot is the person solution to allow him to find answer to questions 24/7, and in multiple languages. 
