@@ -27,3 +27,6 @@ I specifically wanted to include two working-class citizens because the working-
 
 ![Persona - Hector Ruiz](https://user-images.githubusercontent.com/91553088/138819311-224bff8b-6845-47cf-911e-94a6bcaf47d0.png)
 ![Empathy Map - Hector](https://user-images.githubusercontent.com/91553088/138819511-34f03a4f-0457-4c05-9916-9f3c3b990f09.png)
+
+## Proposed Features, Scenarios and Journey Maps
+
