@@ -30,8 +30,15 @@ I specifically wanted to include two working-class citizens because the working-
 
 ## Proposed Features, Scenarios and Journey Maps
 
-### Feature 1 - Chatbot Search Solution (Imani)
+### Feature 1 - Self-Help Solutions Page (Imani)
 
+#### Why?
+
+Imani has a great support system around her, and she is not afraid to be vocal about her situation. From her employee resource groups, to her friends in the city, her friends on social meida, and family, she always knows that the people around her have her back. She is overwhelmed with all the help and support that she received after she faced discrimination at her last job, and is grateful for her support circles. She now works at a larger company and earns better pay too. However, the previous situation has not been fully dealt with, and she needs support as she cannot afford a lawyer and will need to represent herself. Additionally, after filing a complaint against the judge on the basis of abuse of discretion, she has go through an appeal process and do it all over again. To get pointed in the right direction, she calls the office whenever she has a question. However, since she works full-time, she can't always call as much as she would like. 
+
+### How? 
+
+Imani has been made aware of the New York State Commission on Judicial Conduct's website after her friends tell her about it. She decides to take a look at the website, and calls the office to learn about the ways they can help her file a complaint against a judge. She does have the option of using the website, but the navigation and clunky, inconsistent, and not user friendly, so she reaches out over the phone for resources. However, she can't call as often as she would like becuase she works full-time and the New York State Commission on Judicial Conduct is only available durirng limited hours, and she does not want to get help over email. Imani can easily adopt a new self-help & resources page that lists out the services, resources as well as related departments that can assist hee in getting the justice that she needs to get. 
 
 
 ### Feature 2 - Chatbot Search Solution (Hector)
@@ -44,7 +51,7 @@ Hector is single and lives alone. Living in New York isn't the cheapest and he h
 
 #### How?
 
-Hector came across the website after searching how to file a complaint and report a judge mishandling the case. At the same time, he consulted a lawyer who mentioned that they will need to work with this office. He finds the website pretty easily, but he is disappointed with how confusing the website is to navigate, and how it is packed with so much information. When he uses the Spanish options at the bottom of the website, he notices that certain important pages are still in English. He uses Google translate to try to dunerstand what is going on, but the information is unclear and he still has questions. He tries to call the office, but when he asks the persono if they speak English they say no, all people who spoke Spanish were out of office that day. Since Hector works long hours, he can't call anytime soon either during business hours. He can quickly and easily adopty the chatbot solution to answer his questions (in English and in Spanish) without having to confront a human or wait for them to respond. The answers are clear and precise, and it takes himt to the correct web page right away.  
+Hector came across the website after searching how to file a complaint and report a judge mishandling the case. At the same time, he consulted a lawyer who mentioned that they will need to work with this office. He finds the website pretty easily, but he is disappointed with how confusing the website is to navigate, and how it is packed with so much information. When he uses the Spanish options at the bottom of the website, he notices that certain important pages are still in English. He uses Google translate to try to dunerstand what is going on, but the information is unclear and he still has questions. He tries to call the office, but when he asks the persono if they speak English they say no, all people who spoke Spanish were out of office that day. Since Hector works long hours, he can't call anytime soon either during business hours. He can quickly and easily adopt the chatbot solution to answer his questions (in English and in Spanish) without having to confront a human or wait for them to respond. The answers are clear and precise, and it takes himt to the correct web page right away.  
 
 ## Hector's Journey Map
 
