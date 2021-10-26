@@ -23,3 +23,5 @@ I specifically wanted to include two working-class citizens because the working-
 
 
 ### Persona 2: Hector Ruiz - A Spanish-only speaking construction worker 
+
+![Hector Ruiz](https://user-images.githubusercontent.com/91553088/138819311-224bff8b-6845-47cf-911e-94a6bcaf47d0.png)
