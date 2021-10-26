@@ -40,5 +40,7 @@ Hector is single and lives alone. Living in New York isn't the cheapest and he h
 
 #### How?
 
+Hector came across the website after searching how to file a complaint and report a judge mishandling the case. At the same time, he consulted a lawyer who mentioned that they will need to work with this office. He finds the website pretty easily, but he is disappointed with how confusing the website is to navigate, and how it is packed with so much information. When he uses the Spanish options at the bottom of the website, he notices that certain important pages are still in English. He uses Google translate to try to dunerstand what is going on, but the information is unclear and he still has questions. He tries to call the office, but when he asks the persono if they speak English they say no, all people who spoke Spanish were out of office that day. Since Hector works long hours, he can't call anytime soon either during business hours. 
+
 ## Hector's Journey Map
 
