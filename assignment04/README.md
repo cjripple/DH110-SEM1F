@@ -50,5 +50,9 @@ Hector came across the website after searching how to file a complaint and repor
 
 ![Journey Map - Hector](https://user-images.githubusercontent.com/91553088/138821452-17cd3675-a3d0-4d7b-9bd6-49f8d5c37629.png)
 
+# Reflection
 
+The feature requests were difficult to priortize becuase there are a lot of issues that affect the overall usability of the website. However, with all business operations, tasks need to be prioritized becuase not everything can be tackled on the same time. I thought the chatbot search soluation was a great way to tackle multiple usabililty issues at once.
+
+I wanted to be mindful of the population that the New York State Commission on Judicial Conduct serves. I work-part timne with the City of Los Angeles in their Cibil and Human Rights and Equity Departmnet, and we try to make our materials available in English, Spanish, but also Chinese, Mandarian, and other languages that comprise the Angelenos. I'm sure it is a similar case with the city of New york. I chose these two personas because these are demographics that we explored during my design work, and we held information sessions for workers rights, and discrimination law. 
 
