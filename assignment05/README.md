@@ -7,7 +7,14 @@ DH110 - Fall 2021 <br>
 
 ---
 
-## About This Assignment
+## Overview of This Assignment
 
 A key part of introducing new features to a website, app, or platform, is by iteratively developing functions and interactions that are maximized for the user. Creating prototypes are the first stage in doing so. Low fidelity prototypes allow for detailed testing of a website, app or platform *before* the expensive process where the high quality mockups are generated. When the higher quality designs are generated, it is difficult to reverse or take a step backward. 
 
+### Purpose 
+
+This project seeks to experiment and verify if the suggested features on this website increase the usability of the platform. The specific issue I want to address is the lack of search options and the amount of time it takes users to find what they are looking for. This assignment will assess if the target demographic can adopt these features easily. 
+
+### User Personas
+
+Since this department is responsible for very specific tasks, the user personas are relatively narrow. I identified the target audience as adults 30 years old and up. Though not necessarily every time, they likely come from underrepresented backgrounds and are middle class. The population of New York is large and diverse. If you would like to see more information on the user personas, please [click here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment02). 
