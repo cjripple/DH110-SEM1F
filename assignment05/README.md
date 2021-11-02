@@ -27,13 +27,13 @@ As outlined in the [previous assignment,](https://github.com/cjripple/DH110-SEM1
 
 ## Prototypes: Wireframes and Wireflows
 
-Please watch the wireframe and wireflow construction process [here.](https://docs.google.com/presentation/d/1D2GHq3gOPk1QnZ0669Loqsifu6DKAwf0L7XBPFdLB-4/edit?usp=sharing) At each step, my decisions are briefly explained with a justification for the features I implemented. 
+Please watch the wireframe and wireflow construction process [here.](https://docs.google.com/presentation/d/1D2GHq3gOPk1QnZ0669Loqsifu6DKAwf0L7XBPFdLB-4/edit?usp=sharing) At each step, my decisions are briefly explained with a justification for the features I implemented. For more information and context, please read the reflection at the end too. 
 
 In case the hyperlink above does not work, try this: https://docs.google.com/presentation/d/1D2GHq3gOPk1QnZ0669Loqsifu6DKAwf0L7XBPFdLB-4/edit?usp=sharing
 
 ## Protoype User Feedback
 
-The user's feedback was good, and probably something I would have caught if I took a closer look myself. 
+The user's feedback was good, and probably something I would have caught if I took a closer look myself. Please see below for more details. 
 
 #### Tip #1 - Consistency of Positioning with the Back Buttons for the Chat and Search Solution
 
@@ -45,5 +45,5 @@ Having three text buttons was fine, but the accessibility icon was unclear. This
 
 ## Reflection
 
-This exercise was a lot of fun becuase it's the part where all the research and background starts to develop into creativity. We can now make informed layout decisions since we know the paint points and goals that our user is trying to complete. 
+This exercise was a lot of fun becuase it's the part where all the research and background starts to develop into creativity. We can now make informed layout decisions since we know the paint points and goals that our user is trying to complete. For the first feature suguestion, the "Get Help" page, this wireflow took a while to make. I constructed it by sketching it, then cut and paste the image into fragments. I then had to take a big deep dive into the website and understand the content across the whole site so I could organize the most important web pages into groups so they would be easy to find. 
 
