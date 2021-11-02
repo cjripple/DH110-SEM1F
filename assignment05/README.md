@@ -31,5 +31,9 @@ Please watch the wireframe and wireflow construction process [here.](https://doc
 
 In case the hyperlink above does not work, try this: https://docs.google.com/presentation/d/1D2GHq3gOPk1QnZ0669Loqsifu6DKAwf0L7XBPFdLB-4/edit?usp=sharing
 
+## Protoype User Feedback
 
+## Reflection
+
+This exercise was a lot of fun becuase it's the part where all the research and background starts to develop into creativity. We can now make informed layout decisions since we know the paint points and goals that our user is trying to complete. 
 
