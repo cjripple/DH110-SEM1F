@@ -35,7 +35,7 @@ In case the hyperlink above does not work, try this: https://docs.google.com/pre
 
 ## Protoype User Feedback
 
-The user's feedback was good, and probably something I would have caught if I took a closer look myself. Please see below for more details. Having a fresh set of eyes on this project helped me realize where I fell short. 
+The user's feedback was good, and probably something I would have caught if I took a closer look myself. Please see below for more details. Having a fresh set of eyes on this project helped me realize where I fell short. During this session, I asked my friend (who also helped me previously) to do a quick activity, and also provide feedback on some of my designs. Please see below.
 
 #### Tip #1 - Consistency of Positioning with the Back Buttons for the Chat and Search Solution
 
