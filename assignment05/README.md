@@ -21,7 +21,7 @@ Since this department is responsible for very specific tasks, the user personas 
 
 ### Features and Tasks
 
-As outlined in the [previous assignment,](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment04) the two tasks that will be explored in this assignment are the (1) Get Help pages with resources and the (2) revamped chat and search options. Both of these features will introduce faster solutions for visitors to help themselves. These features will also help with accessibilty on multiple points. You can see a breakdown of each feature and it's prototype below. 
+As outlined in the [previous assignment,](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment04) the two tasks that will be explored in this assignment are the (1) "Get Help" pages with resources and the (2) revamped search options and chat service. Both of these features will introduce faster solutions for visitors to help themselves. These features will also help with accessibilty on multiple points. You can see a breakdown of each feature and it's prototype below. 
 
 ---
 
