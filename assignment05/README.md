@@ -18,3 +18,6 @@ This project seeks to experiment and verify if the suggested features on this we
 ### User Personas
 
 Since this department is responsible for very specific tasks, the user personas are relatively narrow. I identified the target audience as adults 30 years old and up. Though not necessarily every time, they likely come from underrepresented backgrounds and are middle class. The population of New York is large and diverse. If you would like to see more information on the user personas, please [click here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment02). 
+
+### Features and Tasks
+
