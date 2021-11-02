@@ -31,6 +31,8 @@ Please watch the wireframe and wireflow construction process [here.](https://doc
 
 In case the hyperlink above does not work, try this: https://docs.google.com/presentation/d/1D2GHq3gOPk1QnZ0669Loqsifu6DKAwf0L7XBPFdLB-4/edit?usp=sharing
 
+---
+
 ## Protoype User Feedback
 
 The user's feedback was good, and probably something I would have caught if I took a closer look myself. Please see below for more details. 
@@ -43,7 +45,13 @@ If you look at the wireflow for the automated chat and search solution, there is
 
 Having three text buttons was fine, but the accessibility icon was unclear. This was something we talked about in class while learning about graphical user interfaces, that icons can be ambiguous. The best strategy would be to include buttons and icons to make the control bar at the bottom look nice. It makes it look like a nice operating system as well. 
 
+#### Tip #3 - Adding a Search Bar on the Get Help Page
+
+Part of what makes a user feel "in control" is having a search bar in case they feel like they are going to get stuck. It would be a good idea to include a search bar so the user can "fall back" to searching for what they want. This search bar would open the automated virtual chat assistant. 
+
+---
+
 ## Reflection
 
-This exercise was a lot of fun becuase it's the part where all the research and background starts to develop into creativity. We can now make informed layout decisions since we know the paint points and goals that our user is trying to complete. For the first feature suguestion, the "Get Help" page, this wireflow took a while to make. I constructed it by sketching it, then cut and paste the image into fragments. I then had to take a big deep dive into the website and understand the content across the whole site so I could organize the most important web pages into groups so they would be easy to find. 
+This exercise was a lot of fun becuase it's the part where all the research and background starts to develop into creativity. We can now make informed layout decisions since we know the paint points and goals that our user is trying to complete. For the first feature suguestion, the "Get Help" page, this wireflow took a while to make. I constructed it by sketching it, then cut and paste the image into fragments. I then had to take a big deep dive into the website and understand the content across the whole site so I could organize the most important web pages into groups so they would be easy to find. When creating the wireflow, I tried to fit all the content on one page, so I gathered a lot of screenshots and web links and used arrows to connect the interactions. 
 
