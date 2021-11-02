@@ -1,4 +1,4 @@
-# Assignment 05 - Low Fidelity Prototype for Proposed Features for the New York State Commission on Judicial Conduct's Website
+# Assignment 05 - Low Fidelity Prototype of Proposed Features for the New York State Commission on Judicial Conduct's Website
 
 Connor Ripple <br>
 Professor Cho <br>
