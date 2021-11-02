@@ -17,7 +17,15 @@ This project seeks to experiment and verify if the suggested features on this we
 
 ### User Personas
 
-Since this department is responsible for very specific tasks, the user personas are relatively narrow. I identified the target audience as adults 30 years old and up. Though not necessarily every time, they likely come from underrepresented backgrounds and are middle class. The population of New York is large and diverse. If you would like to see more information on the user personas, please [click here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment02). 
+Since this department is responsible for very specific tasks, the user personas are relatively narrow. I identified the target audience as adults 30 years old and up. Though not necessarily every time, they likely come from underrepresented backgrounds and are middle class. The population of New York is large and diverse. If you would like to see more information on the user personas, please [click here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment04). 
 
 ### Features and Tasks
+
+As outlined in the [previous assignment,](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment04) the two tasks that will be explored in this assignment are the (1) Get Help pages with resources and the (2) revamped chat and search options. Both of these features will introduce faster solutions for visitors to help themselves. These features will also help with accessibilty on multiple points. You can see a breakdown of each feature and it's prototype below. 
+
+---
+
+## Prototypes: Wireframes and Wireflows
+
+## Task #1 - Get Help Page
 
