@@ -27,5 +27,9 @@ As outlined in the [previous assignment,](https://github.com/cjripple/DH110-SEM1
 
 ## Prototypes: Wireframes and Wireflows
 
-## Task #1 - Get Help Page
+Please watch the wireframe and wireflow construction process [here.](https://docs.google.com/presentation/d/1D2GHq3gOPk1QnZ0669Loqsifu6DKAwf0L7XBPFdLB-4/edit?usp=sharing) At each step, my decisions are briefly explained with a justification for the features I implemented. 
+
+In case the hyperlink above does not work, try this: https://docs.google.com/presentation/d/1D2GHq3gOPk1QnZ0669Loqsifu6DKAwf0L7XBPFdLB-4/edit?usp=sharing
+
+
 
