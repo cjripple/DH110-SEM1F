@@ -41,7 +41,7 @@ If you look at the wireflow for the automated chat and search solution, there is
 
 #### Tip #2 - Using Icons Plus Text for the Control Bar of the Chat and Search Solution
 
-Having three text buttons was fine, but the accessibility icon was unclear. This was something we talked about in class during GUI. The best strategy would be to include buttons and icons to make the control bar at the bottom look nice. 
+Having three text buttons was fine, but the accessibility icon was unclear. This was something we talked about in class while learning about graphical user interfaces, that icons can be ambiguous. The best strategy would be to include buttons and icons to make the control bar at the bottom look nice. It makes it look like a nice operating system as well. 
 
 ## Reflection
 
