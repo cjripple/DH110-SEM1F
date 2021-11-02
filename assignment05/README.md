@@ -49,6 +49,10 @@ Having three text buttons was fine, but the accessibility icon was unclear. This
 
 Part of what makes a user feel "in control" is having a search bar in case they feel like they are going to get stuck. It would be a good idea to include a search bar so the user can "fall back" to searching for what they want. This search bar would open the automated virtual chat assistant. 
 
+### User Feedback Takeaways 
+
+My user's feedback during the brief test of my low-fidelity protoype was super helpful. He mentioned that some of the options appeared similar to the navigation menu. Maybe it was a mistake to use the dropdown menus again, since that floods the users with options. However, after taking a look, he thought the grouping of the options was helpful. The chat bot ideas was also accepted by the user, he thought that it would make things straightforward, especially if someone was unable to call or email and ask a human for help. The language options with the chat are also great, although setting up translations can take some time. If it were to offer multiple languages, the virtual chat/search assistant could potentially be even more resourceful for someone compared to a human that might not speak a language that a citizen is comfortable speaking. 
+
 ---
 
 ## Reflection
@@ -58,7 +62,5 @@ For the first feature suguestion, the "Get Help" page, this wireflow took a whil
 
 For the second feature suggestion, the automated virtual chat solution, I was interested in replicating the chat option that the California DMV provides. I think that service is helpful, and the New York State Commission on Judicial Conduct could really use a feature like this. Since a chat bot requires a "user inquiry" or "user intent" I could not plot out every possible type of command, but I did my best to show what the basic functionality of it looks like. When a user clicks in the corner, or opens a search dialog, the virtual search assistant will come up.
 
-
-
-This exercise was a lot of fun becuase this is the part where all the research and background starts to develop into creativity. We can now make informed layout decisions since we know the paint points and goals that our user is trying to complete. I think there are a lot of improvements that I need to make, and I need to assess again with another user. One more idea I had that the user did not mention, was a microphone button to allow a user to speak a question or command to the virtual search assistant. This feature would be helpful for people who have issues typing. 
+This exercise was a lot of fun becuase this is the part where all the research and background starts to develop into creativity. We can now make informed layout decisions since we know the paint points and goals that our user is trying to complete. I think there are a lot of improvements that I need to make, and I need to assess again with another user. One more idea I had that the user did not mention, was a microphone button to allow a user to speak a question or command to the virtual search assistant. This feature would be helpful for people who have issues typing. However, the virtual chat solution might take a lot of maintenance to set up properly and could require a lot of development, so this is something to consider. z
 
