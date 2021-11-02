@@ -33,6 +33,16 @@ In case the hyperlink above does not work, try this: https://docs.google.com/pre
 
 ## Protoype User Feedback
 
+The user's feedback was good, and probably something I would have caught if I took a closer look myself. 
+
+#### Tip #1 - Consistency of Positioning with the Back Buttons for the Chat and Search Solution
+
+If you look at the wireflow for the automated chat and search solution, there is a "back" option for language selection and also a "back" option when downloading the chat. One is above the content, and the other is below. It's important that these stay consistent. 
+
+#### Tip #2 - Using Icons Plus Text for the Control Bar of the Chat and Search Solution
+
+Having three text buttons was fine, but the accessibility icon was unclear. This was something we talked about in class during GUI. The best strategy would be to include buttons and icons to make the control bar at the bottom look nice. 
+
 ## Reflection
 
 This exercise was a lot of fun becuase it's the part where all the research and background starts to develop into creativity. We can now make informed layout decisions since we know the paint points and goals that our user is trying to complete. 
