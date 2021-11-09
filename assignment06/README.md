@@ -39,6 +39,9 @@ I also tested putting the magnifying glass inside the search bar or using it as 
 
 <img width="783" alt="Screen Shot 2021-11-09 at 12 08 14 AM" src="https://user-images.githubusercontent.com/91553088/140885972-6d874495-1796-4c90-99af-350eced4e8e0.png">
 
+#### Color Variations
+
+One specific color variation test I wanted to investigate was hue of the search bar. I wasn't sure if I should included color emphasis around the search bar field, or the search button or both. I made 16 color variations and tried to compare them. So far, I am not fully confident which design is the best. 
 
 #### Grid Test
 
