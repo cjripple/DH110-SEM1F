@@ -27,6 +27,9 @@ This is the main prototyped that is being created and highlighted during this pr
 
 Although I prefer working without the grid layover, this allows me to ensure all design elements are evenly spaced out and symmetrical. I made sure to manipulate the gutter and margin size so it would work for me. I made sure to save this as a "Grid Style" so I could easily apply this same overlay to my other designs. 
 
+<img width="812" alt="Screenshot of the grids feature on Figma" src="https://user-images.githubusercontent.com/91553088/140878942-7d4e44ff-29e5-4fea-8248-4446382d52cd.png">
+
+
 
 
 
