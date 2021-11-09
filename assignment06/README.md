@@ -70,6 +70,8 @@ For this impression test, I consulted with a friend who has helped me out with a
 
 #### Font
 
+I was surprised to see the participant chose the classical and elegant font, Lusitana. I was hoping that the user would go with the Roboto font, but I will keep his choice in mind. I am not sure which choice should be the final one, so I want to ask a few other participants what their thoughts are. 
+
 #### Shape / Search Layout
 
 I was really happy to see that the paricipant chose the search bar shape and layout that was also my favorite. I'm glad a non-designer chose the search bar that I liked (and the one I did research on). 
