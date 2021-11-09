@@ -85,6 +85,12 @@ I also agreed with participant when he said that the fully-blue search bar was u
 
 <img width="348" alt="Screen Shot of dark grey prototype of website" src="https://user-images.githubusercontent.com/91553088/140902325-c66eda0e-88f1-4801-93e0-1d792b229077.png">
 
+## Design System & Design Justifications
+
+I wanted to continue the balance between modern and elegant design that the original website had. Since the State of New York is strict about the ways their city seal can be used, I decided to leave the header area the same. I did simplify the header a little (I removed the unnecessary Home icon and tidied up the navigation menu). Beucase this is a government website, I do not have any creative freedom to change the colors, so I went with teh official dark blue color, pure white and black, and the appropriate shades of grey. 
+
+
+
 
 ## Accessibility Test
 
