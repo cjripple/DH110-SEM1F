@@ -15,11 +15,13 @@ The interface designs I am creating are based on the [design protoypes I created
 
 ### Step 01 - Get Familiar With the Tool
 
-Thanks to all the in-class assignments, as well as my previous design experience, I have a strong grasp on how to use the Figma platform, and it's advanced features like corner roundness, prototype interactivity, and more. I did spend some time reviewing the last lecture and the documentation she provided, so I could fully grasp how to use the grid tools and other Figma features better. 
+Thanks to all the in-class assignments, as well as my previous design experience, I have a strong grasp on how to use the Figma platform, and it's advanced features like corner roundness, prototype interactivity, and more. I did spend some time reviewing the last lecture and the documentation she provided, so I could fully grasp how to use the grid tools and other Figma features better. More specifically, I did some research on how to use the "Componen" feature on Figma. 
 
 ### Step 02 - Utilize the Tool 
 
+#### Flagship Protoype
 
+This is the main prototyped that is being created and highlighted during this project. You can see more design breakdowns and design decisions happening below. 
 
 
 
