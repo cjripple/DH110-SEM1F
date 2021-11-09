@@ -87,8 +87,11 @@ I liked the user's feedback for the dark mode being too blue. I think that's val
 
 While conducting this test, I made sure to test multiple elements, not just one. I tested  the text overlaid on the search bar and the color behind it, as well as the text on top of the buttons. I needed to adjust a couple of the hues to make everything fully compliant. In the screenshots below you can see the elements I tested. 
 
-![Untitled design (18)](https://user-images.githubusercontent.com/91553088/140900542-d35435e5-bd92-4209-a4a1-a9faae8e6b0b.png)
+![Contrast Checks](https://user-images.githubusercontent.com/91553088/140900542-d35435e5-bd92-4209-a4a1-a9faae8e6b0b.png)
 
+## Reflection
+
+This stage was a lot of fun. I am very pleased to see my work come to life in a visual, tangible form. 
 
 
 
