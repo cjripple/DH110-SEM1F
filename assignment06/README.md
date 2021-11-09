@@ -23,5 +23,10 @@ Thanks to all the in-class assignments, as well as my previous design experience
 
 This is the main prototyped that is being created and highlighted during this project. You can see more design breakdowns and design decisions happening below. 
 
+### Grid Test
+
+Although I prefer working without the grid layover, this allows me to ensure all design elements are evenly spaced out and symmetrical. I made sure to manipulate the gutter and margin size so it would work for me. I made sure to save this as a "Grid Style" so I could easily apply this same overlay to my other designs. 
+
+
 
 
