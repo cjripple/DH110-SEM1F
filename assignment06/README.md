@@ -89,7 +89,7 @@ I also agreed with participant when he said that the fully-blue search bar was u
 
 I wanted to continue the balance between modern and elegant design that the original website had. Since the State of New York is strict about the ways their city seal can be used, I decided to leave the header area the same. I did simplify the header a little (I removed the unnecessary Home icon and tidied up the navigation menu). Beucase this is a government website, I do not have any creative freedom to change the colors, so I went with teh official dark blue color, pure white and black, and the appropriate shades of grey. 
 
-
+Based on my own research on the State of New York and their other websites, and the feedback from my participant during our impressions feedback session, I decided to use a font pairing of Lusitana and Roboto. These fonts go well nicely together and operate in a way that complements the elegance, classic-ness, and proper-ness of a government website, combined with modern, simple, and clean design. The two combine well together in a way that still looks authoritative and official, while also looking friendly and relevant to the modern day.
 
 
 ## Accessibility Test
