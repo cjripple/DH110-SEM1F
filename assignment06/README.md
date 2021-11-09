@@ -91,7 +91,7 @@ While conducting this test, I made sure to test multiple elements, not just one.
 
 ## Reflection
 
-This stage was a lot of fun. I am very pleased to see my work come to life in a visual, tangible form. This project make me realize how important it is to consider even small design decisions (such as if a search bar should have an outline, no outline, a bold background fill, or if it should be greyed out). It was nice to have my friend provide a pair of "fresh eyes" who could give me feedback on which designs he liked best. 
+This stage was a lot of fun. I am very pleased to see my work come to life in a visual, tangible form. This project make me realize how important it is to consider even small design decisions (such as if a search bar should have an outline, no outline, a bold background fill, or if it should be greyed out). It was nice to have my friend provide a pair of "fresh eyes" who could give me feedback on which designs he liked best. This made me realize that user feedback is very important *each stage of the process*. I will use these findings to generate an even more beautiful and functional prototype. 
 
 
 
