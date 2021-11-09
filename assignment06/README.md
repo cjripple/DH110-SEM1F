@@ -29,6 +29,11 @@ Although I prefer working without the grid layover, this allows me to ensure all
 
 <img width="812" alt="Screenshot of the grids feature on Figma" src="https://user-images.githubusercontent.com/91553088/140878942-7d4e44ff-29e5-4fea-8248-4446382d52cd.png">
 
+I used a 6 x 12 grid as it looked the best for my frame, which was the iPhone 8 template, which measures 375 x 667. 
+
+<img width="232" alt="Screenshot of the Grid Styles feature on Figma" src="https://user-images.githubusercontent.com/91553088/140879639-d2dc1825-7f2e-4a17-92b3-24c6f55b9ae3.png">
+
+
 
 
 
