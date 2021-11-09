@@ -29,6 +29,8 @@ During this test, I wanted to test some "fancier" and more elegant fonts like Lu
 
 <img width="932" alt="Screen Shot of four differnet fonts" src="https://user-images.githubusercontent.com/91553088/140884554-29682a52-913e-4630-be30-1d6d7739e604.png">
 
+The rounded corners also look friendlier and more inviting, so I went with the "Search Bar Variation Rounded 2" prototype the second from the right. The person I also did the impression test with agreed with me. 
+
 #### Shape Variation
 
 At this stage, I wanted to test different styles of the search bar. I tested rounded shapes and compared them to straight 90-degree corners. 
