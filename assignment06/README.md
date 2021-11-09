@@ -41,7 +41,7 @@ I also tested putting the magnifying glass inside the search bar or using it as 
 
 #### Color Variations
 
-One specific color variation test I wanted to investigate was hue of the search bar. I wasn't sure if I should included color emphasis around the search bar field, or the search button or both. I made 16 color variations and tried to compare them. So far, I am not fully confident which design is the best. It may be difficult to see the differences up close, so please observe the [Figma project her](https://www.figma.com/file/4NwQdKMsp7neMUnwnjXb56/DH110---A06?node-id=0%3A1) to get a closer look.
+One specific color variation test I wanted to investigate was hue of the search bar. I wasn't sure if I should included color emphasis around the search bar field, or the search button or both. I made 16 color variations and tried to compare them. So far, I am not fully confident which design is the best. It may be difficult to see the differences up close, so please observe the [Figma project here.](https://www.figma.com/file/4NwQdKMsp7neMUnwnjXb56/DH110---A06?node-id=0%3A1) to get a closer look.
 
 <img width="723" alt="Screen Shot 2021-11-09 at 12 24 34 AM" src="https://user-images.githubusercontent.com/91553088/140888460-1659d85f-0c91-4652-ad4b-b4b465dca58d.png">
 
