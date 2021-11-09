@@ -64,6 +64,9 @@ I used a 6 x 12 grid as it looked the best for my frame, which was the iPhone 8 
 
 ## Impression Test
 
+<img width="1186" alt="Screen Shot of Connor Ripple and the participant going over design prototypes" src="https://user-images.githubusercontent.com/91553088/140897878-e66604f2-d57f-4855-a8c5-d854ea056c09.png">
+
+
 For this impression test, I consulted with a friend who has helped me out with a previous assignment for this class. I thought using a previous friend would be helpful because they too have a basic understanding of how the website works and what it is designed to do. I also thought that the feedback he provided earlier on was helpful. I met with my friend for 8 minutes to discuss first impressions, [the recording can be found here.](https://drive.google.com/file/d/1HmqJSU5Z5HRxytiqAJMn6CXHxnxKActo/view?usp=sharing) 
 
 ### Summary of Results from the Impression Test
