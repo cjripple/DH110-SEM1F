@@ -81,7 +81,10 @@ I was really happy to see that the paricipant chose the search bar shape and lay
 
 #### Colors
 
-I liked the user's feedback for the dark mode being too blue. I think that's valuable since most users associate "dark mode" with dark grey. I also agreed with him that the fully-blue search bar was undesirable, so I discarded those design options at the end. 
+I also agreed with participant when he said that the fully-blue search bar was undesirable, so I discarded those design options at the end. I liked the user's feedback for the dark mode being too blue. I think that's valuable since most users associate "dark mode" with dark grey. To try to test his idea, I changed the dark blue to a blue-tinted dark gray and I think it looks nice. 
+
+<img width="348" alt="Screen Shot of dark grey prototype of website" src="https://user-images.githubusercontent.com/91553088/140902325-c66eda0e-88f1-4801-93e0-1d792b229077.png">
+
 
 ## Accessibility Test
 
@@ -91,7 +94,7 @@ While conducting this test, I made sure to test multiple elements, not just one.
 
 ## Reflection
 
-This stage was a lot of fun. I am very pleased to see my work come to life in a visual, tangible form. This project make me realize how important it is to consider even small design decisions (such as if a search bar should have an outline, no outline, a bold background fill, or if it should be greyed out). It was nice to have my friend provide a pair of "fresh eyes" who could give me feedback on which designs he liked best. This made me realize that user feedback is very important *each stage of the process*. I will use these findings to generate an even more beautiful and functional prototype during the next assignment. 
+This stage was a lot of fun. I am very pleased to see my work come to life in a visual, tangible form. This project make me realize how important it is to consider even small design decisions (such as if a search bar should have an outline, no outline, a bold background fill, or if it should be greyed out). It was nice to have my friend provide a pair of "fresh eyes" who could give me feedback on which designs he liked best. This made me realize that user feedback is very important *each stage of the process*. I will use these findings to generate an even more beautiful and functional prototype during the next assignment. I am excited to gather takeaways and make a more beautiful version that is *even more* optimized for the user's convenience. 
 
 
 
