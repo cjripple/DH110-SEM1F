@@ -29,6 +29,14 @@ During this test, I wanted to test some "fancier" and more elegant fonts like Lu
 
 <img width="932" alt="Screen Shot of four differnet fonts" src="https://user-images.githubusercontent.com/91553088/140884554-29682a52-913e-4630-be30-1d6d7739e604.png">
 
+#### Shape Variation
+
+At this stage, I wanted to test different styles of the search bar. I tested rounded shapes and compared them to straight 90-degree corners. 
+
+I also tested putting the magnifying glass inside the search bar or using it as a dedicated button. After searching the best design practicess for search bars, I learned that it's best to include a dedicated search button [next to the search box, according to what I read.](https://uxplanet.org/design-a-perfect-search-box-b6baaf9599c)
+
+<img width="783" alt="Screen Shot 2021-11-09 at 12 08 14 AM" src="https://user-images.githubusercontent.com/91553088/140885972-6d874495-1796-4c90-99af-350eced4e8e0.png">
+
 
 #### Grid Test
 
