@@ -19,9 +19,9 @@ Thanks to all the in-class assignments, as well as my previous design experience
 
 ### Step 02 - Utilize the Tool 
 
-#### Flagship Protoype
+#### Figma
 
-This is the main prototyped that is being created and highlighted during this project. You can see more design breakdowns and design decisions happening below. 
+The Figma project can be found [here](https://www.figma.com/file/4NwQdKMsp7neMUnwnjXb56/DH110---A06?node-id=0%3A1) or at this link: https://www.figma.com/file/4NwQdKMsp7neMUnwnjXb56/DH110---A06?node-id=0%3A1
 
 #### Typographic Variation 
 
@@ -81,7 +81,7 @@ I was really happy to see that the paricipant chose the search bar shape and lay
 
 #### Colors
 
-I liked the user's feedback for the dark mode being too blue. I think that's valuable since most users associate "dark mode" with dark grey. I also agreed with him that the fully-blue search bar was undesirable. 
+I liked the user's feedback for the dark mode being too blue. I think that's valuable since most users associate "dark mode" with dark grey. I also agreed with him that the fully-blue search bar was undesirable, so I discarded those design options at the end. 
 
 ## Accessibility Test
 
