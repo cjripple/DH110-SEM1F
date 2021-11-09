@@ -78,9 +78,7 @@ I was really happy to see that the paricipant chose the search bar shape and lay
 
 #### Colors
 
-I was happy to see that the participant chose the search 
-
-
+I liked the user's feedback for the dark mode being too blue. I think that's valuable since most users associate "dark mode" with dark grey. 
 
 ## Accessibility Test
 
