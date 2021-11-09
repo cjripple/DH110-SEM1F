@@ -72,7 +72,11 @@ For this impression test, I consulted with a friend who has helped me out with a
 
 #### Shape / Search Layout
 
+I was really happy to see that the paricipant chose the search bar shape and layout that was also my favorite. I'm glad a non-designer chose the search bar that I liked (and the one I did research on). 
+
 #### Colors
+
+I was happy to see that the participant chose the search 
 
 
 
