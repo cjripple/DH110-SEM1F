@@ -25,7 +25,10 @@ This is the main prototyped that is being created and highlighted during this pr
 
 #### Typographic Variation 
 
-Ater seeing how the UI looked with other fonts, I was pleased with Roboto, which is the font that the website originally used. I will go with this font moving forward. 
+During this test, I wanted to test some "fancier" and more elegant fonts like Lusitana and Georgia, and compare it with modern, bold fonts like Futura and Roboto. Ater seeing how the UI looked with other fonts, I was pleased with Roboto, which is the font that the website originally used. I will go with this font moving forward. 
+
+ <alt="Screen Shot of four differnet fonts" src="https://user-images.githubusercontent.com/91553088/140884398-6bd2b4d8-e0ab-44d5-b2c8-27ff7d8776f6.png">
+
 
 #### Grid Test
 
