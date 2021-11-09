@@ -81,7 +81,7 @@ I was really happy to see that the paricipant chose the search bar shape and lay
 
 #### Colors
 
-I also agreed with participant when he said that the fully-blue search bar was undesirable, so I discarded those design options at the end. I liked the user's feedback for the dark mode being too blue. I think that's valuable since most users associate "dark mode" with dark grey. To try to test his idea, I changed the dark blue to a blue-tinted dark gray and I think it looks nice. 
+I also agreed with participant when he said that the fully-blue search bar was undesirable, so I discarded those design options at the end. I liked the user's feedback for the dark mode being too blue. I think that's valuable since most users associate "dark mode" with dark grey. To try to test his idea, I changed the dark blue to a blue-tinted dark gray and I think it looks very official, clean, and not "too blue". 
 
 <img width="348" alt="Screen Shot of dark grey prototype of website" src="https://user-images.githubusercontent.com/91553088/140902325-c66eda0e-88f1-4801-93e0-1d792b229077.png">
 
