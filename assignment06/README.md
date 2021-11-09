@@ -45,6 +45,11 @@ One specific color variation test I wanted to investigate was hue of the search 
 
 <img width="723" alt="Screen Shot 2021-11-09 at 12 24 34 AM" src="https://user-images.githubusercontent.com/91553088/140888460-1659d85f-0c91-4652-ad4b-b4b465dca58d.png">
 
+#### Light Mode & Dark Mode Variation
+
+As part of this assignment, I created a light mode and dark mode. The light variation has an off-white background. The hex code for the background color is (#F6F6F6). The website originally uses a white background (#FFFFFF), so I wanted to reduce eye strain by adding a slight amount of grey/darkness to the background color. It still looks flat and modern and is a slight improvement from the original version of the website. 
+
+<img width="862" alt="Two side by side protoypes, one is light mode and the other is dark mode" src="https://user-images.githubusercontent.com/91553088/140890823-06ee7578-8aac-4a4c-a489-94d09ca1c315.png">
 
 
 #### Grid Test
