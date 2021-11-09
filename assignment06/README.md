@@ -11,7 +11,7 @@ This is the part where all the creative design process come to life. Building on
 
 ## Purpose of This Assignment
 
-The interface designs I am creating are based on the [design protoypes I created here](https://github.com/cjripple/DH110-SEM1F/edit/main/assignment05/README.md) for the best understanding of the background of these interfaces below, please review the previous project. This interface design project will allow us to envision the best way to make it easier for users to find resources on the New York State - Commission on Judicial Conduct's website. So while I laid out the basic structure of the proposed features, this assignment will improve on that structure, and will focus on visual/aesthetic features. I want to make sure my designs are accessible, easy to find and operate in multiple languages, and also feel fluid and quick to use. 
+The interface designs I am creating are based on the [design protoypes I created here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment05) for the best understanding of the background of these interfaces below, please review the previous project. This interface design project will allow us to envision the best way to make it easier for users to find resources on the New York State - Commission on Judicial Conduct's website. So while I laid out the basic structure of the proposed features, this assignment will improve on that structure, and will focus on visual/aesthetic features. I want to make sure my designs are accessible, easy to find and operate in multiple languages, and also feel fluid and quick to use. 
 
 ### Step 01 - Get Familiar With the Tool
 
