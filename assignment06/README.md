@@ -62,6 +62,21 @@ I used a 6 x 12 grid as it looked the best for my frame, which was the iPhone 8 
 
 <img width="232" alt="Screenshot of the Grid Styles feature on Figma" src="https://user-images.githubusercontent.com/91553088/140879639-d2dc1825-7f2e-4a17-92b3-24c6f55b9ae3.png">
 
+## Impression Test (1)
+
+For this impression test, I consulted with a friend who has helped me out with a previous assignment for this class. I thought using a previous friend would be helpful because they too have a basic understanding of how the 
+
+### Summary of Results from the Impression Test
+
+#### Font
+
+#### Shape / Search Layout
+
+#### Colors
+
+
+
+## Accessibility Test
 
 
 
