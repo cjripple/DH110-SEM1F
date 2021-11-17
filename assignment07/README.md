@@ -13,4 +13,4 @@ Using the feedback from all the color and design variations I tested [last week 
 
 ## Improvements Based on Peer Review
 
-Last Tuesday, November 16, we went though a light peer review with classmates and provided feedback on each other's designs. This session was super helpful becuase I got valuable feedback on 
+Last Tuesday, November 16, we went though a light peer review with classmates and provided feedback on each other's designs. This session was super helpful becuase I got valuable feedback on ways to improve my website. One suggestion that I loved was adding a footer content to my webpage. When I first created the prototype, I didn't really think about how I would design the bottom of the webpages, so the input from my peers was super helpful. 
