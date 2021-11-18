@@ -17,6 +17,10 @@ Last Tuesday, November 16, we went though a light peer review with classmates an
 
 As part of the iterative design process, I went back to my first heuristic evaluation to remember what the issues were wit the original website, and what I could do now to make the most of those problems and shortcomings. This was a good exercise to reflect on the design preferences I had at the beggining of class until now. A couple takeaways I had were (1) a footer needs to be implemented, the (2) design of the footer needs to be elevated (3) improve the search navigation to make it easier for the use and (4) use more images in my design. There were a lot of other comments I made in the first heuristic evaluation, but they can't really be implemented in the context of this class, or need to be added later on. For example, including cover effects on elements is not easy to do using Figma. 
 
+### Tasks that This New Protoype Supports
+
+This prototype will empower the user to do a few new things. First of all, this protype tests an all-new footer that the original website does not have. This will make it look better design-wise and help users navigate the website easier. Additionally, this protype explores the expanded and improved search function that has clearer nad more accurate results. It is also easier for the user to review their search, or search for a new term. Overall, there are search improvements across the board. Lastly, this prototype allows users to test what the "Get Help" page looks like when users click on the options, such as complaints. 
+
 ### Protype of the New Footer
 <img width="389" alt="Screen Shot 2021-11-18 at 3 48 58 AM" src="https://user-images.githubusercontent.com/91553088/142410035-8da6b97a-b3f0-4d18-9b99-bbdcd838f0d3.png">
 <img width="341" alt="Screen Shot 2021-11-18 at 3 48 27 AM" src="https://user-images.githubusercontent.com/91553088/142410055-8b24be31-933f-4148-8357-32db4565856c.png">
