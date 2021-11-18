@@ -34,4 +34,20 @@ I wish to implement a "Get Help" page that puts the most commonly asked question
 
 [Please click here to view my persona and scenario assignment.](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment04) With this stage, I did research to identify the users and demographics that would be most likely to use this website. This feedback would help me keep in mind who I am designing this project for. 
 
+## UX Storytelling 
+[Please click here to view this assignment](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment05) During this process, I constructed a low fidelity prototype of the design feaures I wanted to implement on this website. This was an early stage design that I sketched out, and I made some improvements along the way. 
+
+## Wireframe and Graphic Design
+
+## Low-fidelity Prototype
+
+## High-fidelity Prototype
+
+## Optional Evaluation and Revision History 
+
+## Pitch Video 
+
+## Conclusion and Reflection 
+
+
 
