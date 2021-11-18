@@ -49,9 +49,11 @@ I wish to implement a "Get Help" page that puts the most commonly asked question
 
 ## Low-fidelity Prototype
 
-
+[Please view my wireflow and low fidelity protoype here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment05). A key part of introducing new features to a website, app, or platform, is by iteratively developing functions and interactions that are maximized for the user. Creating prototypes are a critical stage in doing so. Low fidelity prototypes allow for detailed testing of a website, app or platform before the expensive process where the high quality mockups are generated. When the higher quality designs are generated, it is difficult to reverse or take a step backward. This is a crucial stage before the design and aesthetic choices come into play.
 
 ## High-fidelity Prototype
+
+[View the first interactive prototype here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment07). Now is the time to create the first interactive prototype, this an exciting stage where all the different screens and designs are connected into one logical flow, and we get to assess how the user-friendly the new UX protype is. Using the protyping tools in Figma, I can assign clickable elements, and link them together in a flow, to mimic how the interactions would take place (hence the prototype).
 
 ## Optional Evaluation and Revision History 
 
