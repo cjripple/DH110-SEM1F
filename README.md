@@ -29,3 +29,9 @@ I wish to implement a "Get Help" page that puts the most commonly asked question
 [Please click here to view my heuristic evaluation.](https://github.com/cjripple/DH110-SEM1F/blob/main/assignment01/README.md) This is for the website I will be working on, plus the New York unified courts system website. This details certain design criteria that are strong, and shortcomings based on a review against certain criteria. 
 
 [Please click here to view my pilot test.](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment02) This is the first interview I did with a participant, gathering their feedback and initial thoughts on the website. 
+
+## User Research 
+
+[Please click here to view my persona and scenario assignment.](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment04) With this stage, I did research to identify the users and demographics that would be most likely to use this website. This feedback would help me keep in mind who I am designing this project for. 
+
+
