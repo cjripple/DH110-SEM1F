@@ -34,6 +34,9 @@ I know how frustrating it is to be stuck on a webpage and have buttons that don'
 
 <img width="860" alt="Screen Shot 2021-11-18 at 3 51 43 AM" src="https://user-images.githubusercontent.com/91553088/142410430-11d99bcc-0053-4861-90c4-753755a158e8.png">
 
+<img width="680" alt="Screen Shot 2021-11-18 at 4 38 55 AM" src="https://user-images.githubusercontent.com/91553088/142416825-3e49267a-7ca6-4e07-b765-6043c39dde70.png">
+On the second screenshot, more black arrows are added to demonstrate the flow, using the "autoflow" plugin. 
+
 ## Cognitive Walkthrough With Participant
 
 ##### For this section, I asked a user a few questions about my protoype, and they let me know their responses. Some of them are pasted below verbatim, while other fields are summaries and takeaways. 
