@@ -26,9 +26,11 @@ I wish to implement a "Get Help" page that puts the most commonly asked question
 
 ## Competitor Analysis
 
-[Please click here to view my heuristic evaluation.](https://github.com/cjripple/DH110-SEM1F/blob/main/assignment01/README.md) This is for the website I will be working on, plus the New York unified courts system website. This details certain design criteria that are strong, and shortcomings based on a review against certain criteria. 
+[Please click here to view my heuristic evaluation.](https://github.com/cjripple/DH110-SEM1F/blob/main/assignment01/README.md) This is for the website I will be working on, plus the New York unified courts system website. This details certain design criteria that are strong, and shortcomings based on a review against certain criteria. The court system in the State of New York is one of the largest and oldest in the country. Handling nearly four million cases a year , it is imperative that the New York Government has robust and easy-to-navigate websites for users to find resources and help. Considering that New York's different courts handle different types of cases, it's important for users to be able to help themselves using the website. This project will examine UX design choices that work well, and choices that can be implemented to make the website easier to navigate, as well as a platform that is accessible for everyone.
 
-[Please click here to view my pilot test.](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment02) This is the first interview I did with a participant, gathering their feedback and initial thoughts on the website. 
+
+
+[Please click here to view my pilot test.](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment02) This is the first interview I did with a participant, gathering their feedback and initial thoughts on the website. After conducting a thorough heurisitic evaluation of the website, a large amount of issues popped up with consistency and ease of use. [(See the heuristic evaluation here)](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment01) To evaluate these assumptions, it's important to understand how these flaws affect users in the real world. This is where usability testing (UT) comes into play. Since the website had significant issues with [visibility of system status](https://www.nngroup.com/articles/visibility-system-status/), [consistency and standards](http://www.nngroup.com/articles/consistency-and-standards/), and [error prevention](https://www.nngroup.com/articles/slips/), among others, this project will evaluate how these issues impede a user from doing what they are trying to do.  
 
 ## User Research 
 
