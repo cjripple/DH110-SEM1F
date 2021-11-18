@@ -1,5 +1,5 @@
 # DH110-SEM1F 2021
-## This repository is made by Connor Ripple, for the UX Design/DH 110 Course at UCLA with Professor Cho.
+## This repository is made by Connor Ripple, for the UX Design/DH 110 Course at UCLA with Professor Cho. Please read below to see my portfolio for this class. 
 
 ### Assignments 
 
