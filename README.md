@@ -14,6 +14,8 @@ I was born in Salt Lake City, but I grew up my whole life in California.
 
 Here is a link to my LinkedIn profile: https://www.linkedin.com/in/connorripple/
 
+---
+
 ## New York State Commission on Judicial Conduct Project - Connor Ripple
 
 ## Introduction to the project
