@@ -32,4 +32,17 @@ I know how frustrating it is to be stuck on a webpage and have buttons that don'
 
 <img width="860" alt="Screen Shot 2021-11-18 at 3 51 43 AM" src="https://user-images.githubusercontent.com/91553088/142410430-11d99bcc-0053-4861-90c4-753755a158e8.png">
 
+## Cognitive Walkthrough With Participant
+
+##### For this section, I asked a user a few questions about my protoype, and they let me know their responses. Some of them are pasted below verbatim, while other fields are summaries and takeaways. 
+
+*What the participant saw:* "A neatly designed list of options to click on" 
+
+*What the user thought the website was about* "Finding resources if a judge did misconduct against you."
+
+*Purpose of the protoype:* The participant fully understoood that the purpose of this protoype was to make it easier for the user to navigate the large amount of resources on the website. They did find some options on the page a little repetitive with the options in the menu item, which is something to keep in mind. I may need to adjust the wording of some elements.
+
+
+
+
 
