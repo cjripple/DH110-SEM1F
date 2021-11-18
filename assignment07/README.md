@@ -66,6 +66,7 @@ Following feedback from the user, I added a few more important options to the fo
 
 ## Conclusion and Reflection
 
+Creating interactive designs is a lot of fun. It's like a game, but the object of this game is to gather as much feedback as possible and optimize the design for maximum results. My footer was a little tricky to construct becuase there were three difrerent offices for my website, and I wanted to make the information as clear and consistent as possible for these different locations. It's also difficult to rest a "search" protype since I cabn't really make the keyboard part interactive, or make the search function properly. However, the way it was simulated was good enough. I feel like I have some more improvements to make by the time for the next assignment. I feel like I can elevae the design more, and make the "Get Help" options more interactive and fun, rather than just drop down menus.  I would also like to test my protype with more than just one participant. I thought that the peer review in class was super helpful, so I would like to do that for this protoype too and my future assignments as well. lastly, looking at the heuristic evaluation was a good exercise becuase I can track my UX design decisions down a pipeline and make sure I didnt't lose anything important in the process. 
 
 
 
