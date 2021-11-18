@@ -39,9 +39,18 @@ I wish to implement a "Get Help" page that puts the most commonly asked question
 
 [View the first interactive prototype here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment07). Now is the time to create the first interactive prototype, this an exciting stage where all the different screens and designs are connected into one logical flow, and we get to assess how the user-friendly the new UX protype is. Using the protyping tools in Figma, I can assign clickable elements, and link them together in a flow, to mimic how the interactions would take place (hence the prototype).
 
-## Optional Evaluation and Revision History 
+## Optional Evaluation and Revision History
+
+[Please view my cognitive workthrough here](apple.com)
+
+[Please view my accessibility test here](apple.com)
+
+More content coming soon to this section. 
 
 ## Pitch Video 
 
+More content coming soon to this section.
+
 ## Conclusion and Reflection 
 
+More content coming soon to this section. 
