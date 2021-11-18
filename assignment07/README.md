@@ -60,7 +60,13 @@ I know how frustrating it is to be stuck on a webpage and have buttons that don'
 
 ### Improvement - Revamped Footer
 
-Following feedback from the user, I added a few more important options to the footer. I think that this was a smart decision, and I will move forward with this. 
+Following feedback from the user, I added a few more important options to the footer. I think that this was a smart decision, and I will move forward with this. I dedicted to make it a lot larger, and add links to the common phone number, email and mailing address. This is common information to put in a footer, and will help users find the New York State - Commission on Judicial Conduct's contact information faster. To make navigation clear, I then included a section header that says "Helpful Links" and put the links below that. I also added an accessibility statement and a privacy policy to help users find information on how the website takes these things seriously. 
+
+<img width="349" alt="Screen Shot 2021-11-18 at 4 27 22 AM" src="https://user-images.githubusercontent.com/91553088/142415284-11973c70-ed4b-44a4-9eb7-f7ba3ede4a34.png">
+
+## Conclusion and Reflection
+
+
 
 
 
