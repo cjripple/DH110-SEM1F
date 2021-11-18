@@ -29,7 +29,9 @@ I wish to implement a "Get Help" page that puts the most commonly asked question
 ## Wireframe and Graphic Design
 [View the first high-res protype here.](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment06) This is the part where all the creative design process come to life. Building on the principles we have learned thus far, it is now time to build the first design iterations for our project. Design and aethetic choices are important, so this project will involve multiple iterations with different colors and fonts, and lots of testing. These first design prototypes will allow us to create a viable and functional protype later on (which will happen in the next project). The best way to create a great interface design is by doing a lot of design variations, and iterations so it's time to do that.
 
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4NwQdKMsp7neMUnwnjXb56%2FDH110---A06%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
 
 [View the first interactive prototype here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment07). Now is the time to create the first interactive prototype, this an exciting stage where all the different screens and designs are connected into one logical flow, and we get to assess how the user-friendly the new UX protype is. Using the protyping tools in Figma, I can assign clickable elements, and link them together in a flow, to mimic how the interactions would take place (hence the prototype).
 
