@@ -42,6 +42,25 @@ I know how frustrating it is to be stuck on a webpage and have buttons that don'
 
 *Purpose of the protoype:* The participant fully understoood that the purpose of this protoype was to make it easier for the user to navigate the large amount of resources on the website. They did find some options on the page a little repetitive with the options in the menu item, which is something to keep in mind. I may need to adjust the wording of some elements.
 
+*Any other comments?* The participant mentioned that he thought the footer should include more links to resources, like the privacy policy, any applicable legal disclosures, and any statements on accessibility. I totally agree and will redesign the footer to include more relevant information, including more resources to legal and privacy policy notices. I noticed that lots of other govermentn websites have more robust footers with more options. 
+
+*Is there any point that the users may not understand what this screen(feedback) is about?* The participant mentioned that having color changes on hover would help with navigation, but they did not get conofuised on certain page, as there were titles and descriptions to guide the user. 
+
+*Is there any point that the users may not recognize where to click or select?* When testing with the participant, they did not have any issues finding where to click, since I added cancel options and plenty of buttons to navigate the site completely. 
+
+*Is there any point that the users may feel lost and may not sure whether the progress is being made toward what they want to achieve?* The user I worked with did not get confused or stuck while going through the process. I made sure to improve the search function to provide more visual feedback, as well as higher search results confidence. 
+
+*Is there any point that the users would not know what to do the next step?* Similar to the question above, no. This may be because my protoype was relatively short, but they were able to get to the end, or get home easily. 
+
+*Is there any point that is not clear where to return or missing back-flow of cancel or exit?* The participant noticed that I added "X" and "cancel" buttons during certain actions. In other places, the user can return home by clicking the logo or the footer logo. The original website does not have this functionality, so this helps with the navigation experience for the user. 
+
+*Is there anything inconsistent, missing, or confusing?* Not having hover effects on the buttons was slightly confusing. This is definitely something I could fix, but it would take a lot of time. Also, since the protoype is not interactive on every single element, the participant clicked a few dead buttons. However, these are easy fixes. 
+
+*Any other comments?* No, besides the footer improvements mentioned above. 
+
+### Improvement - Revamped Footer
+
+Following feedback from the user, I added a few more important options to the footer. I think that this was a smart decision, and I will move forward with this. 
 
 
 
