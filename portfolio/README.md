@@ -1,7 +1,7 @@
 ## New York State Commission on Judicial Conduct Project - Connor Ripple
 ###### Connor Ripple, for Professor Cho, DH 110 SEM 1/F21, 29 November 2021
 
-## Introduction to the project
+## Introduction to the Project
 
 With this project, I want to redesign some features on the website to make it more cohesive, and easier for users to find what they need. Most users are looking for information on what they can do about judicial misconduct, and are looking for related resources. 
 
