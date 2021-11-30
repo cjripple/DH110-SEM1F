@@ -49,7 +49,21 @@ If you would like to see a walkthrough of the protoype, please view the video ab
 
 ## Optional Evaluation and Revision History
 
-Original User Testing of the NYC - CJC Website - [Watch Video Here](https://drive.google.com/file/d/1OYrFFfP2TztdrjVoTplJ6SsE17VNuC6g/view)
+Original User Testing of the NYS - CJC Website - [Watch Video Here](https://drive.google.com/file/d/1OYrFFfP2TztdrjVoTplJ6SsE17VNuC6g/view)
+This test evaluated certain tasks and goals using the original website and an evaluation. 
+
+Contextual Inquiry and Qualitative Research of the NYS - CJC ebsite - [Watch Videoo Here](https://drive.google.com/file/d/1o4sJ7KWcLzAmKy5UYFSKC7hbGLzhYIyQ/view)
+This video was more open ended asked questions about their overall experience using the site and asked more open-ended questions.
+
+Low Fideltiy Prototype, Early Stages Feedback - [Read Comments Here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment05#prototype-user-feedback)
+I asked a participant to give some feedback to my early designs before I created a high-fidelity prototype. 
+
+High-Fidelity Prototype Impression Test - [Watch Video Here](https://drive.google.com/file/d/1HmqJSU5Z5HRxytiqAJMn6CXHxnxKActo/view)
+After creating a high-fidelity prototype, I asked my friend (the user) about his thoguhts on my design, and what his thoughts were on certian design variants.
+
+
+
+
 
 
 
