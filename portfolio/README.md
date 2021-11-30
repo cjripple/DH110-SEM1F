@@ -6,7 +6,7 @@ With this project, I want to redesign some features on the website to make it mo
 
 ## Clear Design Statement 
 
-I wish to implement a "Get Help" page that puts the most commonly asked questions in one spot. This is beucause the current navigation menu is cluttered nad looks different on certain pages. 
+I wish to implement a "Get Help" page that puts the most commonly asked questions in one spot. This is becuase the current navigation menu is cluttered nad looks different on certain pages. This will bridge the gap and assist older adults, impatient users, and people who are on the go. 
 
 ## Competitor Analysis
 
@@ -30,7 +30,7 @@ I wish to implement a "Get Help" page that puts the most commonly asked question
 [View the first high-res protype here.](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment06) This is the part where all the creative design process come to life. Building on the principles we have learned thus far, it is now time to build the first design iterations for our project. Design and aethetic choices are important, so this project will involve multiple iterations with different colors and fonts, and lots of testing. These first design prototypes will allow us to create a viable and functional protype later on (which will happen in the next project). The best way to create a great interface design is by doing a lot of design variations, and iterations so it's time to do that.
 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4NwQdKMsp7neMUnwnjXb56%2FDH110---A06%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F4NwQdKMsp7neMUnwnjXb56%2FDH110---A06%3Fnode-id%3D0%253A1" allowfullscreen>
 
 
 [View the first interactive prototype here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment07). Now is the time to create the first interactive prototype, this an exciting stage where all the different screens and designs are connected into one logical flow, and we get to assess how the user-friendly the new UX protype is. Using the protyping tools in Figma, I can assign clickable elements, and link them together in a flow, to mimic how the interactions would take place (hence the prototype).
@@ -71,7 +71,7 @@ Please look at rows 10-12 with the title: "Connor Ripple"
 
 [<img width="1151" alt="Screen Shot 2021-11-30 at 1 32 44 AM" src="https://user-images.githubusercontent.com/91553088/144021722-487d1b6d-4338-4bbf-a4f4-ce56761bef56.png">](https://watch.wave.video/dh110--pitch-video-61a5e64b46e0fb0001d1007c)
 
-Please link on the image above or [click here](https://watch.wave.video/dh110--pitch-video-61a5e64b46e0fb0001d1007c) to watch the video. 
+Please click on the image above or [click here](https://watch.wave.video/dh110--pitch-video-61a5e64b46e0fb0001d1007c) to watch the video. 
 
 Alternatively, if the link above does not work, you can view my pitch video on Google Drive [here](https://drive.google.com/file/d/1NA42TBm9sSFUY6rLAxcdyeqddez7RlFG/view?usp=sharing)
 
@@ -81,7 +81,7 @@ Much of the information in the slides was skipped due to time limits. To view th
 
 ## Conclusion and Reflection 
 
-This project taught me a lot, and it was so much fun to take a dive into UX Research. The conclusion is somewhat lengthy, so thank you for your patience. Here are some of my findings:
+This project taught me a lot, and it was so much fun to take a dive into UX Research. *The conclusion is somewhat lengthy, so thank you for your patience.* Here are some of my findings:
 
 ### Takeaways 
 
