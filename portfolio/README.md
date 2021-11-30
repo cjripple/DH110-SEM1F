@@ -49,11 +49,9 @@ If you would like to see a walkthrough of the protoype, please view the video ab
 
 ## Optional Evaluation and Revision History
 
-[Please view my cognitive workthrough here](apple.com)
+Original User Testing of the NYC - CJC Website - [Watch Video Here](https://drive.google.com/file/d/1OYrFFfP2TztdrjVoTplJ6SsE17VNuC6g/view)
 
-[Please view my accessibility test here](apple.com)
 
-More content coming soon to this section. 
 
 ## Pitch Video 
 
