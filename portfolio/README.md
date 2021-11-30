@@ -41,11 +41,11 @@ I wish to implement a "Get Help" page that puts the most commonly asked question
 
 ## High-fidelity Prototype
 
-[View the first interactive prototype here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment07). Now is the time to create the first interactive prototype, this an exciting stage where all the different screens and designs are connected into one logical flow, and we get to assess how the user-friendly the new UX protype is. Using the protyping tools in Figma, I can assign clickable elements, and link them together in a flow, to mimic how the interactions would take place (hence the prototype).
+[View the first interactive prototype here](https://github.com/cjripple/DH110-SEM1F/tree/main/assignment07). Now is the time to create the first interactive prototype, this an exciting stage where all the different screens and designs are connected into one logical flow, and we get to assess how the user-friendly the new UX protype is. Using the protyping tools in Figma, I can assign clickable elements, and link them together in a flow, to mimic how the interactions would take place (hence the prototype)
 
-<div style="padding: 56.25% 0 0 0; position: relative"><div style="height:100%;left:0;position:absolute;top:0;width:100%"><iframe height="100%" width="100%;" src="https://embed.wave.video/42daa56167cbd10817bce3ba" frameborder="0" allow="autoplay; fullscreen" scrolling="no"></iframe></div></div>
+https://user-images.githubusercontent.com/91553088/144009786-5ef6bdd3-7db6-4810-ad46-8633b8858acb.mp4
 
-If you would like to see a walkthrough of the protoype, please view this video [here](https://drive.google.com/file/d/18C9wr4_o-2rT118ITFp1ZW0KaPHC2K4J/view?usp=sharing)
+If you would like to see a walkthrough of the protoype, please view the video above. If you are having issues, you can view it on Google Drive. Please view this video [here](https://drive.google.com/file/d/18C9wr4_o-2rT118ITFp1ZW0KaPHC2K4J/view?usp=sharing)
 
 ## Optional Evaluation and Revision History
 
