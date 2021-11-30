@@ -45,7 +45,7 @@ I wish to implement a "Get Help" page that puts the most commonly asked question
 
 https://user-images.githubusercontent.com/91553088/144009786-5ef6bdd3-7db6-4810-ad46-8633b8858acb.mp4
 
-If you would like to see a walkthrough of the protoype, please view the video above. If you are having issues, you can view it on Google Drive. Please view this video [here](https://drive.google.com/file/d/18C9wr4_o-2rT118ITFp1ZW0KaPHC2K4J/view?usp=sharing)
+If you would like to see a walkthrough of the protoype, please view the video above. If you are having issues, you can view it on Google Drive. You may view the video on Google Drive [here](https://drive.google.com/file/d/18C9wr4_o-2rT118ITFp1ZW0KaPHC2K4J/view?usp=sharing)
 
 ## Optional Evaluation and Revision History
 
