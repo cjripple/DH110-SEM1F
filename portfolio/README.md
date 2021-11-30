@@ -2,11 +2,11 @@
 
 ## Introduction to the project
 
-With this project, I wwant to redesign some features on the website to make it more cohesive, and easier for users to find what they need. Most users are looking for information on what they can do about judicial misconduct, and are looking for related resources. 
+With this project, I want to redesign some features on the website to make it more cohesive, and easier for users to find what they need. Most users are looking for information on what they can do about judicial misconduct, and are looking for related resources. 
 
 ## Clear Design Statement 
 
-I wish to implement a "Get Help" page that puts the most commonly asked questions in one spot. This is beucaause the current navigataion menu is cluttered nad looks different on certian pages. 
+I wish to implement a "Get Help" page that puts the most commonly asked questions in one spot. This is beucause the current navigation menu is cluttered nad looks different on certain pages. 
 
 ## Competitor Analysis
 
