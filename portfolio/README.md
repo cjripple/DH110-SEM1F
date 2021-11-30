@@ -1,4 +1,5 @@
 ## New York State Commission on Judicial Conduct Project - Connor Ripple
+###### Connor Ripple, for Professor Cho, DH 110 SEM 1/F21, 29 November 2021
 
 ## Introduction to the project
 
