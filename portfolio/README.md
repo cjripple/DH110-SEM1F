@@ -57,6 +57,8 @@ View my pitch video [here](https://drive.google.com/file/d/18C9wr4_o-2rT118ITFp1
 
 ## Conclusion and Reflection 
 
+This project taught me a lot, and it was so much fun to take a dive into UX Research. Here are some of my findings:
+
 ### Takeaways 
 
 There is a huge need for effective communicators, storytellers, and UX Researchers to improve the usability of government websites and services. There is still a lot more websites and projects that are needed to make other government websites accessible, navigable, and easy to use.
