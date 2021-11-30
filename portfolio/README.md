@@ -53,7 +53,7 @@ More content coming soon to this section.
 
 ## Pitch Video 
 
-More content coming soon to this section.
+View my pitch video (here)[https://drive.google.com/file/d/18C9wr4_o-2rT118ITFp1ZW0KaPHC2K4J/view?usp=sharing]
 
 ## Conclusion and Reflection 
 
