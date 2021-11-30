@@ -57,4 +57,20 @@ View my pitch video [here](https://drive.google.com/file/d/18C9wr4_o-2rT118ITFp1
 
 ## Conclusion and Reflection 
 
-More content coming soon to this section. 
+### Takeaways 
+
+There is a huge need for effective communicators, storytellers, and UX Researchers to improve the usability of government websites and services. There is still a lot more websites and projects that are needed to make other government websites accessible, navigable, and easy to use.
+
+While there is a broad audience that New York State - Commission on Judicial Conduct serves, it is essential and relatively easy to pinpoint a target demographic.  It’s important to keep this user in mind while constructing the website, and designing features in a way that is accessible, easy for older adults to follow, and provides feedback on if the user is making progress while navigating the website or not. Lots of users fail or get stuck while using government websites, including this one. 
+
+Thoroughness really matters.  The time I put into research, design and development really paid off and allowed me to gain more insights about how my products was going to perform, and ways I could improve my product. I learned that I needed to schedule and organize any projects while working with various  users/participants and supervisors and peers, and make it a process of improvement over time. 
+
+### Future Suggestions For Improvement
+
+I did not have enough time or direct access with the New York State - Commission on Judicial Conduct, so I felt like I could have done a better job organizing the information and putting it in one place as best as I could. Improvements can be made in that aspect.
+
+Ideally, it would be great to test the live prototype using a tool like Hotjar, which tracks user progress and heat maps clicks and where users get stuck.  If I had more time, I would do this. Microsoft clarity is a great free tool, and is something I would use next.  
+
+I would like to create a multi-device prototype next time, including a desktop version of my website with extended filters and functionality. During this course, I only focused on mobile prototypes. I chose the the mobile prototype because it was how users would most likely try to find relevant resources and information, when they are on the go and need to find information quickly. Also trying a completely different layout just to compare the strengths and weaknesses of each. 
+
+One thing I learned while doing this project (if I were to do it again) is to pay attention to previous findings during each stage of the process. During one of my last assignments, I realized I forgot to implement something I found earlier in the year, so I want to reiterate how important it is to stay focused on your findings and takeaways as you move into different project phases.  
