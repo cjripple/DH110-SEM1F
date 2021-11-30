@@ -69,7 +69,7 @@ Please look at rows 10-12 with the title: "Connor Ripple"
 
 ## Pitch Video 
 
-View my pitch video [here](https://drive.google.com/file/d/18C9wr4_o-2rT118ITFp1ZW0KaPHC2K4J/view?usp=sharing)
+View my pitch video [here](https://drive.google.com/file/d/1NA42TBm9sSFUY6rLAxcdyeqddez7RlFG/view?usp=sharing)
 
 Much of the information in the slides was skipped due to time limits. To view the [detailed presentation slides, please click here](https://drive.google.com/file/d/1vH1vcNWqGv6vZnik85YH9SbV5dBzIKO5/view?usp=sharing). 
 
