@@ -75,7 +75,7 @@ Much of the information in the slides was skipped due to time limits. To view th
 
 ## Conclusion and Reflection 
 
-This project taught me a lot, and it was so much fun to take a dive into UX Research. Here are some of my findings:
+This project taught me a lot, and it was so much fun to take a dive into UX Research. The conclusion is somewhat lengthy, so thank you for your patience. Here are some of my findings:
 
 ### Takeaways 
 
