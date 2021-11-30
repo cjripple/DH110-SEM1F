@@ -69,7 +69,13 @@ Please look at rows 10-12 with the title: "Connor Ripple"
 
 ## Pitch Video 
 
-View my pitch video [here](https://drive.google.com/file/d/1NA42TBm9sSFUY6rLAxcdyeqddez7RlFG/view?usp=sharing)
+[<img width="1151" alt="Screen Shot 2021-11-30 at 1 32 44 AM" src="https://user-images.githubusercontent.com/91553088/144021722-487d1b6d-4338-4bbf-a4f4-ce56761bef56.png">](https://watch.wave.video/dh110--pitch-video-61a5e64b46e0fb0001d1007c)
+
+Please link on the image above or [click here](https://watch.wave.video/dh110--pitch-video-61a5e64b46e0fb0001d1007c) to watch the video. 
+
+Alternatively, if the link above does not work, you can view my pitch video on Google Drive [here](https://drive.google.com/file/d/1NA42TBm9sSFUY6rLAxcdyeqddez7RlFG/view?usp=sharing)
+
+### Pitch Video - Presentation Slides
 
 Much of the information in the slides was skipped due to time limits. To view the [detailed presentation slides, please click here](https://drive.google.com/file/d/1vH1vcNWqGv6vZnik85YH9SbV5dBzIKO5/view?usp=sharing). 
 
