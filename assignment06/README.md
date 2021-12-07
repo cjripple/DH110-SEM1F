@@ -56,7 +56,8 @@ As part of this assignment, I created a light mode and dark mode. The light vari
 
 Although I prefer working without the grid layover, this allows me to ensure all design elements are evenly spaced out and symmetrical. I made sure to manipulate the gutter and margin size so it would work for me. I made sure to save this as a "Grid Style" so I could easily apply this same overlay to my other designs. 
 
-<img width="812" alt="Screenshot of the grids feature on Figma" src="https://user-images.githubusercontent.com/91553088/140878942-7d4e44ff-29e5-4fea-8248-4446382d52cd.png">
+<img width="593" alt="Screenshot of the grids feature on Figma" src="https://user-images.githubusercontent.com/91553088/144976656-f97e06d6-5cbf-40ea-9b4f-ea1e83700ae9.png">
+
 
 I used a 6 x 12 grid as it looked the best for my frame, which was the iPhone 8 template, which measures 375 x 667. 
 
